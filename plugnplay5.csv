@@ -1,0 +1,873 @@
+Company Name,Description,Link
+Timeseer.AI,"Timeseer AI tames unreliable data, reduces overall data downtime, and makes time series analytics more trustworthy. It allows to empower your data teams to detect, prioritize, and investigate data quality issues before they hit operations. Timeseer.AI is already trusted by leading data teams of more than a dozen Fortune 5000 companies.",http://timeseer.ai
+WarehouseBlueprint,"They were a team of industrial engineers, designing warehouse layouts for customers. They had to explain to clients the details of the warehouse layout frequently. Aside from the CAD software, they tried this other commercial tool to produce 3D warehouse layouts as well. The licensing fee was pricey and the learning curve was steep.
+
+They were then introduced to SketchUp and their initial project using this software brought an ""awe-moment"" to the clients. They were delighted to see the new proposed changes to the current warehouse in three dimensional pictures.
+
+Modeling the entire warehouse takes time, and the components from previous projects are required to be modified to be reused. In order to speed up the entire process, they have started to design various dynamic components.
+
+The creation of these dynamic components allows us to complete a warehouse modeling in 3D within the shortest possible time. The idea is simple. They modify the components by changing the parameters and then place these components to the required locations within the warehouse.",http://warehouseblueprint.com
+Natifi,"Natifi is an AI-powered no-code technology platform being used by organizations to create, design & manage their enterprise technology solutions in different business verticals & industries such as SCM, Grant Management, and FMS.",http://natifi.ai
+Screevo,"According to a McKinsey Report, manufacturing workers spend an average of 800 hours per year entering data into forms, spreadsheets and software systems: approximately 40% of their overall time. For this reason, Screevo offers a voice assistant capable of guiding users through industrial processes and doing the data entry tasks on their behalf. Thanks to a pure voice interaction, workers can focus of what matter the most: create value with their hands. 
+
+Screevo delivers on its promise through algorithms of natural language understanding (NLP) and robotic process automation (RPA). The RPA engine allows the voice assistant to control any software system seamlessly: the initial setup takes only a few weeks and no integration with in-house systems is required. The customer shall only record its screen during standard operations: Screevo team prepares a tailored process and allows the customer to download Screevo app on PC and smartphone, wear the headphones and let the voice assistant take care of the rest.",http://screevo.ai
+Groundup.ai,"Groundup.ai helps industrial companies prevent unplanned downtime and unnecessary wastages. Their core solutions lie in Condition Based Monitoring and Predictive Maintenance for a wide range of industries including manufacturing, maritime and construction. They achieve this by deploying our ‘proprietary IoT sound sensors and AI platform’, thereby helping clients to save substantial maintenance expenses without the need for a huge learning curve nor high-risk deployments on ground.
+ 
+Their proprietary high-performance IoT sound sensor is compact and built to withstand harsh industrial environments, allowing for flexible deployments across a wide range of industries, operational sites and machines. They then leverage on their unique 3-dimensional approach to analyse the sound data collected and do Condition Based Monitoring for a wide range of machinery, as well as to pick out sound anomalies for Predictive Maintenance, where accurately identify potential machine failures and downtime.
+ 
+Their solutions are 5X faster with the help of Meta Asset Capsule™, their existing library of data resources to catapult the speed of deployment so that clients can see a faster ROI.
+ 
+At heart, they see themselves as a catalyst to help industrial companies transform into ‘Industry 4.0’ and beyond.",http://groundup.ai
+Tractonomy,"Tractonomy builds compact autonomous towing robots that take the hassle out of industrial cart handling in logistics. Their towing robots offer hassle-free cart pick-up and drop-offs at the performance expected in real-world warehousing applications. They want you to reuse your existing carts without additional investments to start profiting from robotic towing immediately.
+
+Like all machines, robots need regular checks to function optimally. Expecting your staff to do this on a regular basis is impractical so they offer to do it for you. Their Maintenance-as-a-service (MaaS) platform automates diagnostics and troubleshooting to scale with your workloads. For example, they could monitor your robot fleets every minute during the holiday season and every other day during the off-season.",http://tractonomy.com
+NODE Robotics,"Today, manufacturing in high-wage countries is challenged by multiple trends:
+Decreasing batch sizes, demand volatility, cost pressure, lack of specialists and social distancing.
+Therefore, the factory of the future must be highly flexible and autonomous.
+NODE provides plug & play software solutions, which enable operation of collaborative multi-vendor AMR fleets and reduce TCO for intralogistics by up to 65%.",http://node-robotics.com
+Extend Robotics,"There is a huge need in industry to avoid physical labour presence in workspace. 
+Normally for three reasons: 
+(1) dangerous environments with risk of injury;
+(2) cost of operation, such as shutting down the facility for maintanence and 
+(3) tedious and inefficient workflow, because of long travel, and preparations. 
+Extend Robotics oversees those are the key driving force for robotic industries. Actually, the global service robot market is growing exponentially, not only In Unit sales but also in many new application areas such as inspection and maintenance. 
+They are building a immersive interface for robot using virtual reality. Everyone can intuitively control a robot remotely. It works as the physical avatar of the user to perform manipulation tasks at human-like dexterity. So the operator who were doing the job originally can easily teleoperate the robot to finish the same job reliably and flexibly but without physical present in workspace.",http://extendrobotics.com
+Grayscale AI,"Grayscale AI is a B2B SaaS platform which improves safety and operational efficiency using neuromorphic vision and computing. Key points:
+- Participating in the Techstars Industries of the Future Accelerator in Knoxville, TN.
+- Winner of mobility UK gov grant of £100k from Zenzic. First to test neuromorphic vision in the UK in real-world automotive scenarios. 
+- Graduated 5PRING 5G accelerator backed by Wayra UK. Demoing solution to construction giants in the UK/Spain, meeting 4+.
+- Secured key partnerships with Intel and NVIDIA, with access to soon-to-be commercialised R&D hardware.
+- High interest from automotive, defence, aerospace players, most at meeting 3+.
+- Market: neuromorphic computing, growing at a CAGR of 89%
+
+The core tech is neuromorphic computing. Simply put, that is computers that mimic the functionality of the human brain. This allows them to collect and monitor data in real-time, at microsecond resolution, at an up to 10,000x more energy efficiency than existing solutions.
+Their vision for the future is zero-accident and efficient mobility, delivered through automation, while minimising costs and environmental impact.
+
+Grayscale AI is at the intersection of computer vision, neural computation and robotics.",http://grayscale.ai
+ElectroKnox,"ElectroKnox’s Intelligent Vehicle Platform helps car makers to overcome network communications challenges in today's highly complex vehicle networks that could include 100+ ECUs using different protocols.
+EK’s hardware- and vehicle E/E architecture- agnostic SW Stack seamlessly bridges network communications across different vehicle domains and communications protocols. Car makers using EK’s SW Stack have much better control over their vehicles’ SW architecture and are able to take advantage of new, centralized vehicle architecture as Tesla has.
+EK SW also allows vehicle apps to be deployed in a safe, secure, and stand-alone manner, simplifying development of vehicle applications such as smart diagnostics, whole vehicle OTA, etc, thus clearing the path to software-defined vehicles. Vehicle feature development and update become much less complex when more vehicle functionalities are software defined and the number of hardware ECUs is reduced.
+EK's powerful, vehicle architecture agnostic HW offers a high-performance compute solution that serves well as central / zonal gateways or domain controller, replacing multiple HW ECUs to give car OEMs the ability to better adapt to changing vehicle network topology, new technology, & fit the future need of software-defined vehicles.",http://electroknox.com
+Hyperspec AI,"Only 3% of US roadways are covered by the high-definition master maps that today's self-driving cars require to navigate. Without a hard tether to these maps, or beyond their bounds, autonomous vehicles simply cannot operate. Worse, the coverage of these maps is expanding at a rate of only 2% every 5 years.
+
+At Hyperspec AI we are expanding navigable roadways for autonomous vehicles to 95%, today, by equipping each car with our onboard vision hardware that localizes and navigates with true autonomy. Our high-frequency periodic calibration corrects for drift using satellite imagery to achieve continuous precise real-time positioning at a fraction of the cost.",http://hyperspec.ai
+WingDriver,"Starting by targeting mobility, WingDriver aims to significantly reduce the number of road accidents caused by driver mistakes, by building an Aftermarket AI tech for driver and vehicle monitoring, designed specifically for smartphones.
+WingDriver is the only company applying AI to a combination of facial analysis, vehicle inertial data, and the vehicle surroundings to accurately identify dangerous situations, before the driver causes an accident.
+The WingDriver app uses smartphone sensors and Virginia Tech Transportation Institute (VTTI) research results, as the foundation for all the interoperability between sensors and all the decision making processes. Additionally to the app we will launch the complementary: 
+ - Cloud data: Enabling for a better risk assessment and consequently improved insurance products; 
+ - Fleet manager dashboard: Enabling professional fleets to better manage their assets and drivers;
+ - WingDriver SDK: To enable any mobile application company to include these safety features in their products.
+ - White label apps: Our iOS and Android apps are developed in a way that enables a quick change on the visuals to fit our client needs. Facilitating proof of concept activities.
+
+New Vehicle Mandates Coming in 2022, from Europe, USA and China.",http://wingdriver.com
+AUTOCRYPT,"Cybersecurity is becoming a requirement for ensuring the safety of today's mobility.
+Autocrypt provides comprehensive, end-to-end security for transportation technologies, including:
+
+- In-Vehicle Security : autonomous and connected vehicles cybersecurity including consulting, testing, security solutions, intrusion detection and protection system (IDS and IDPS), vehicle security operations center (vSOC)
+
+- Vehicle-To-Everything (V2X): Smart cities and connected cars security based on Public Key Infrastructure, Certificates and Encryption
+
+- Vehicle-To-Grid (V2G) Security: EV Charging security based on Plug & Charge (ISO 15118) and Open Charge Point Protocol (OCPP)
+ 
+- Digital Key: vehicle smart key installed on your smartphone
+
+- Fleet Management System (FMS) for Shared Mobility: efficient and secured fleet management though data analysis and customized development",http://autocrypt.io
+dRISK,"dRISK is an autonomous vehicle company that provides smoother and safer AV solutions for the vehicle industry. The company focused on reducing transportation risk and helping customers create safe and effective autonomous technologies.
+
+With dRISK, AV developers can now rigorously test and improve their systems on the full space of edge cases, via:
+• A comprehensive taxonomy of edge cases derived from a huge variety of edge-case-specific data sources,
+• A patented technology delivering optimal, semi random and non overlapping test sets guaranteed to traverse the training space while minimizing overtraining, i.e. uniformly improve on all edge cases while preserving performance on center cases, and
+• A sensor-realistic, reality-matched simulation environment for massively parallel, real-time HIL testing as well as perception re-training.
+
+dRISK is now offering these capabilities to AV developers in the form of an edge case API and associated simulation product suite which can test a fully sensorized autonomous vehicle in simulation.",http://drisk.ai
+WHYGRENE,"WHYGRENE’s Energy Exchange is a SaaS application that accelerates the sustainable energy transition by helping solve renewable energy’s greatest problem, which is the power supply & demand imbalance.
+Our solution is a Blockchain-based TDERMS that automatically buys & sells energy with utilities & their DER customers to balance the grid.  
+While addressing this problem, WHYGRENE adds value to both utilities & DER owners.
+First, we save utilities money by aggregating DERs as Virtual Power plants (VPPs) for grid services instead of building expensive fossil fuel plants.
+Second, we increase the ROI for DER owners by compensating them for providing these services. 
+Our hybrid cloud & blockchain application is more secure, decentralized, efficient & affordable, compared to existing software which is centralized & unsecure, or other blockchains that are inefficient & costly.
+We have over 75 years experience with software, business & utilities when enabling us to find the right product market fit. 
+Our app is the missing piece of software that utilities & DER owners need to monitor & manage the production, storage, consumption & transfers of energy & Renewable Energy Credits (REC). 
+WHYGRENE’s goal is to help utilities Decarbonize, Digitize & Decentralize the grid.",http://whygrene.com
+Talyn Air,"Talyn Air is an electric vertical takeoff and landing aircraft system.
+
+It separates and recombines in the air and allows each vehicle to operate at peak efficiency without wasting energy.
+
+Jamie Gull and Evan Mucasey established it in Los Angeles, California.",http://talyn.com
+Emsense,"A Sweden based software development company focusing on developing software and algorithms for sensors that can be used for multiple cases - focusing on the automotive sector, personal safety, public spaces and logistics. This solution is very flexible and provides scalability across business areas.
+
+Automotive: Radar technology that can detect heart rates, respiration and other parameters that are affecting the drivers during the ride. This health data is sent in realtime to dispatchers and emergency personnel if a road traffic accident occurs. By providing dispatchers with this data as soon as an accident occurs they have the ability to prioritize rescue efforts, thus saving both lives and expenses.
+
+Personal safety and public spaces: by detecting health parameters in public spaces the company can both know if a space is occupied and if the person is in need of help. This is practical in areas where cameras are not feasible.
+
+Logistics: Emsense wants to prevent accidents in environments where warehouse equipment is used, such as trucks, pallet lifters and other machines. Focus here is both preventive and reactive measures to save lives.",http://emsensetech.com
+eLeapPower,"eLeapPower has developed a suite of trail-blazing technologies for zero-emission electric vehicles. Our innovative powertrain technology optimizes battery performance and significantly cuts charging time. This also allows for bidirectional charging, as well as charging directly from renewable energy sources like wind and solar.
+
+Our patented technology eliminates the need for on-board chargers, lowering manufacturing costs. Moreover, our powertrain works across all manufacturers, vehicle types and batteries.",http://eleappower.com
+Cling Systems,"The Cling platform connects the dots between manufacturers, owners of used batteries, dismantlers and workshops [sellers] with the buyers that capture most environmental and commercial value. In turn, by aggregating batteries and data on the platform and providing logistics, remanufacturers and recyclers [buyers] can source the batteries that fit their specific needs.
+
+By coupling each battery with its material content and location, Cling is developing the world’s first online mine.",http://clingsystems.com
+ELEXIR,"Elixir is developing a new, completely digital software platform for the automotive industry; it helps automotive companies to develop their cars much faster. Their technology allows car functions to reside in secure, containerized apps such that developers can improve vehicle functions - even while the car is already in customer hands. This shortens development cycles from years to weeks.
+
+Car functions are no longer defined by components but rather by apps running on the versatile ELEXIR platform. For this to work, a clean-sheet-of-paper approach is needed that the big OEMs cannot perform or risk. They envision ELEXIR to be a modern building block from new EV startups to big OEMs. ELEXIR enables its customers to concentrate on what makes their car special, while they make the development process and customer experience a breeze. Car manufacturers and app developers alike don't need to care anymore about certification, security, deployment, and updates. Their architecture aims at providing the highest level of security and safety while abstracting from underlying hardware details of the vehicle: The operating system of mobility. This will transform mobility as we know it by opening the market to 3rd party creativity through open data and open APIs that solve actual user needs.",http://elexir.eu
+Morelli Tech,"Morelli Tech is a start-up born with the idea of revolutionizing the concept of 'hologram'​ making it attractive to people as well as companies. The company develops hologram augmented reality systems with the possibility of interacting with them, to be implemented on cars of the future (holographic windshields), 3D prototyping systems and transparent touch screens.
+
+They are building a mixed reality system that can display all the information necessary for driving, such as speedometer, navigator, time, incoming calls, etc. on the windscreen by the projection of a hologram. With AI, they are able to detect any obstacles on the road, such as pedestrians, cars or objects that obstruct the journey or road signs.",http://morellitech.it
+Driver Technologies,"Driver Technologies provides enterprise partners with critical behavioral driving data at scale. Working with the industry's leading insurance and autonomous vehicle companies, DTI's DriverCloud combines driving video (both internal and external), telematics, computer-vision-based reference labels, distance and speed calculations and analytics in a search-optimized, cloud-based platform. From highways to cities, edge cases to geographical nuances, the DriverCloud's powerful search and filter capabilities enable users to quickly understand real-world driving behavior and improve their own data models. Existing partners utilize the platform for planning and prediction, informing simulations and training context-aware telematics and risk models to bring their products from R&D to production worldwide.",http://trydriver.com
+ACCURE Battery Intelligence,"ACCURE is a data analytics platform improving the safety, reliability and longevity of battery systems through cloud computing. Accure works with energy and mobility companies around the world and has built strong partnerships with insurance firms. Their database contains the operating data of over 1,000 MWh of batteries from all relevant suppliers and in all relevant use cases- the largest independent database of battery performance in the world.",http://accure.net
+Moment Energy,"Electric Vehicle batteries still have up to 80% of their capacity left when they are retired from electric cars. Moment is re-purposing EV batteries to create sustainable energy storage. Their units can be paired with any energy source and will be used to replace diesel generators in remote communities. By re-purposing electric vehicle batteries, they extend their lifetime value and provide a viable option for remote communities to transition from using diesel power.",http://momentenergy.ca
+Electric Fish,"Electric Fish's plan is to engineer, design, and assemble energy storage units with XFC outlet ports, with an initial focus on mobile deployable units. These mobile units will help to make better selections for infrastructure upgrades, to deploy large scale distributed urban energy storage.
+
+ElectricFish’s 350² provides community energy storage infrastructure with extreme fast charging. Their plug-and-play system is designed to power community loads through a bi-directional electricity meter, and an ultrafast charging CCS port that can deliver extreme-fast charging rates to vehicle architectures from 300 - 950 VDC.
+
+CoReScore is a siting algorithm that uses data from electrical grid local power capacity, vehicle trip-to-trip data, and user demographics to choose the most impactful locations to build distributed storage. Their approach considers hosting capacity, consumer behavior, and technical challenges for building a new electrical grid.",http://electricfish.co
+Maaind,"Maaind is a neuroscience and AI start-up developing novel neurotechnology that fuses biometrics, sensors, BCI (Brain-Computer Interfaces) and Machine Learning to enable objective measurements of mental states (stress, emotional states, cognitive performance) in real-life settings.
+
+Neuroadaptive platform
+Their core offering is the Maaind middleware platform - available through an API as well as through app-level integrations.
+
+Real-time mental state
+Using real-time biometric and speech recordings in a secure and privacy-preserving way, the platform allows understanding the user's affective state in real-time.
+
+Multi-modal
+Their algorithms are trained using multiple types of data to achieve higher accuracy in different settings. They combine speech, HRV, neural and behavioral data.",http://maaind.com
+Social Airbag,"Social Airbag is a Mexican company whose purpose is to eliminate transit accidents caused by texting and driving and fatigue.
+
+Social Airbag mobile app blocks the user cellphone when exceeding 15km/hr allowing navigation systems, incoming calls, and emergency calls. This way the driver can use the phone in a responsible way. 
+
+The web app display route analysis and driver's behavior allowing the fleet manager to control in real-time all their fleet and to generate reports in order to increase productivity and performance on their drivers. 
+
+Social Airbag (Tired Bag) is a facial recognition system that runs through a night vision camera on the unit that identifies when the driver is falling asleep setting up an alarm to let them know they are not in conditions to drive. 
+
+These products generate a cost decrease on our clients in insurance policies, opportunity costs, accident costs, etc. Most importantly Social Airbag is committed to saving thousands of lives annually worldwide.",http://socialairbag.com
+GO TO-U,"GO TO-U enables charge point operators (CPOs) to manage, operate and monetize EV charging infrastructure. With GO TO-U complete end-to-end services for EV charging management and operations, CPOs drive two times higher utilization of the locations. GO TO-U mobile application helps EV drivers to find CPOs’ locations, book EV charging stations together with access to facilities and services while charging. Their products include:
+
+1. Powerful dashboard for operators:
+
+- EV charging management
+- Location-based marketing
+- Billing and invoicing
+- Statistics and Big Data Analysis
+
+2. Convenient mobile application for EV drivers:
+
+- Chargers reservation
+- Amenities reservation
+- Simple payments
+- Route planning",http://go-tou.com
+Phantasma Labs,"At Phantasma Labs, they are changing the way in which Autonomous Vehicle companies acquire crucial human behaviour datasets - at scale.
+
+Through their Simulation as a Service platform, they crowdsource human input to generate synthetic datasets for training autonomous cars(L3-L5). Users interact as pedestrians or drivers etc., with their life-like virtual worlds which are powered by high-performance physics and game engines.
+
+This unique approach allows autonomous systems to be trained for the crucial behavioral edge cases occurring in urban environments. These are the cases currently keeping driverless cars from entering cities. They can answer hard questions, such as what are the ways in which humans behave in urban areas? How do crazy drivers/violators drive on streets? How do people behave across cultural differences?
+
+Their first offering includes scenario datasets and human behaviour models that can be used in the existing workflows and simulation stacks of autonomous driving companies.",http://phantasma.global
+LinkbyCar,"LinkBycar is the connected vehicles Intelligence Platform, that use car telematics natively embedded by cars connected to a high frequency network.
+
+No more bag of tools and wasted time. LinkByCar is one single platform connected to multiple car brands allowing product and service providers to derive values from data generated by cars.
+
+Why Now?
+Connected cars growth will outpace population growth for the next 10 years.
+It will generate about 152 million actively cars connected to high frequency network.
+
+What issue are we trying to solve?
+A lot of the frustration with providers of cars products and services come from poor communication and a poor knowledge between provided services and the way customers use them. The LinkBycar platform allows automotive product and services providers to create a new generation of products that integrates driving behavior of their customers from the surrounding environment, generates insights and simplifies customer experiences.",http://linkbycar.com
+Uniquesec AB,"UniqueSec AB is an innovative company, developing advanced signal processing algorithms for small-scale radars in various applications such as level measurement, distance and speed measurement, presence detection, outdoor surveillance and object classification. 
+
+We also design test and verification solutions for radars in different applications particularly in automotive.
+
+Our core expertise is the development of signal processing for short-range radars, operating in high frequencies and wide band. We develop advanced signal processing algorithms to make these sensors perform measurements in various conditions. Using this know-how, we have implemented a complete radar system for distance measurement. This product, called UR2, is an affordable solution which improves the precision and maximum range of measurement. It can be reconfigured to measure distance, speed and direction of movement through software upgrade.
+
+Our other product is a radar for object classification. It demonstrates the potential of our radar in security and surveillance with reduced cost and without privacy issues. UniqueSec also provides a Radar Development Platform (RDP1) to help signal processing development in industries, universities and research institutes.",http://uniquesec.com
+Albora,"Albora Technologies develops next-generation high-accuracy geolocation solutions for industrial and mass-market applications. The company’s technologies offer fast, high-accuracy, software-based and hardware-agnostic GNSS (Global Navigation Satellite System) solutions, enabling customers to obtain better geolocation information that is reliable, safe and secure. Our products are especially suited for tracking assets in challenging environments, such as urban areas, industrial complexes and critical infrastructures.",http://albora.io
+BroadBit Batteries,"BroadBit is commercializing sodium chloride (table salt) based battery innovations replacing and surpassing current lithium based batteries in terms of cost, energy, sustainability and scalability; making electric cars cheaper and better performing, grid storage economically attractive and even enabling electric airplanes. BroadBit's batteries are exceptionally fast charging and have high energy per weight and low material and manufacturing costs. For brand manufacturers, BroadBit sells in-house produced battery components for assembly or licenses its battery chemistry, structure and manufacturing technologies. For others, BroadBit sells 3rd party / white-label assembled batteries directly or via distribution partners. BroadBit's components are scalabily made by simple roll-to-roll processing. BroadBit outsources the most labor and CAPEX intensive part of manufacturing, battery and pack assembly, while maintaining control over its key component IP and know-how.",http://broadbit.com
+Blickfeld,"Blickfeld is disrupting the LiDAR sensor industry by using MEMS-based mirror technology to steer the ranging laser beam instead of relying on mechanical spinners. Our solution is more compact, maintenance free, and provides new capabilities, such as changing scan resolutions on the fly.
+
+They work with global automotive OEMs and suppliers to integrate sensors within the vehicle body, providing mid-range sensing data for autonomous navigation.  
+
+They also offer a stand-alone sensor, the Cube, that can be deployed in a variety of Internet of Things applications, including:
+•	People counting and monitoring – the sensor system is particularly well suited for deployment in large halls or outdoor settings.   The companion software (Percept) makes it easy to locate counting “portals” anywhere in the scene.
+•	Mapping: a key early application area is the real-time volume measurement of large stockpiles of minerals and other mining products.   
+•	Security: LiDAR sensing works in all lighting conditions and is far less sensitive to false alarms than existing solutions in perimeter monitoring.
+•	Navigation: The Blickfeld’s Cube light weight (270g) makes it a perfect sensor for deployment on drones, performing collision avoidance and mapping tasks.
+
+The Cube has been shipping since 2020.",http://blickfeld.com
+Simplifyber,"Simplifyber is changing the way clothes are created, transforming the world's $1.5 trillion Apparel Industry and 250-year old factory system into sustainable, additive manufacturing. By assembling clothes with chemistry rather than with sewing machines, the Simplifyber process eliminates much of the waste, carbon emissions, and water pollution that have led to fashion’s devastating environmental and social impact in recent years. Efficient, plant-based and closed-loop, Simplifyber is revolutionizing the way the world manufactures clothing with its proprietary technology and cutting-edge techniques.",http://simplifyber.com
+Connect Earth,"We are building the API-toolkit to calculate the carbon footprint of any purchase.
+
+Companies and consumers are demanding more accurate data to reduce their emissions. We are building out the merchant- and product-level data infrastructure to empower consumers and companies to reduce their emissions.
+
+We work together with Raiffeisen Bank, Qvalia, MoneyHub, Cogni amongst many others financial institutions and FinTechs globally.",http://connect.earth
+Babaco Market,"Babaco Market is a subscription with which you receive out-of-the-ordinary fruit and vegetables at home. Products that do not exceed the beauty contests organized by traditional channels and which risk being wasted. We deliver them to your home, in a box. Bring all the goodness of nature to the table and reduce food waste!
+
+A heart-shaped potato, a nosed eggplant, a kiwi or a Siamese cherry, these are just a few examples of what you will find in your box. But not only that, in each box you will also find products that are unique by nature because they come from small farmers who cultivate according to traditional methods and which safeguard the local Italian gastronomic tradition, unique in the world.
+
+Ordering your box is very simple and you can choose between the Bonsai box or the Jungle box: different for quantity of products. Think about how much fruit and vegetables you eat and who you share them with and you will find out which Babaco Box is right for you! Curious? Order the first box and choose between a weekly or fortnightly subscription, but don't worry: you can unsubscribe freely when you want, without any problem.",http://babacomarket.com
+SolarMente,"We make Solar savings simple for any homeowner by packaging together hardware, installation, warranties, financing, insurance, and continued tech support to bring out of pocket investment and risk for customers to 0. We are essentially producing trust and peace of mind in an otherwise jargony, regulation-heavy, sale to a non-technical customer.",http://solarmente.es
+Rubi Laboratories,"At Rubi Laboratories, we turn carbon emissions into carbon-neutral cellulosic textiles for fashion brands with critical sustainability goals. Apparel is one of the top 3 dirtiest supply chains on Earth, and most major fashion brands have committed to critical and urgent sustainability goals amid consumer, investor, and supply chain pressure. However, brands are left frustrated with no scalable supply chain solutions despite some billions of dollars of investment per year. Our patent-pending technology sequesters carbon and produces carbon-, water-, and land-neutral textiles for apparel (~10 tons CO2 mitigated & sequestered per ton of textile, and ~0.4 GtCO2/year impact opportunity). Our textiles meet the needs of stakeholders across the fashion value chain: comparable costs to commercial textiles, easy manufacturing using existing viscose facilities, and properties which can mimic cotton, linen, silk, and wool. Today, Rubi is a team of 5 with expertise across science, business, fashion, and million-dollar-grossing product development. We have developed our lab prototype validating the core our technology, filed IP, interviewed 30+ potential customers and earned 2 LOIs, and attracted a stellar advisory board of leaders across science, business, supply chain, and fashion.",http://rubilaboratories.com
+Sylvera,"Sylvera’s mission is to be a source of truth for carbon markets. 
+
+Sylvera’s team of experts leverages proprietary data and machine learning technology to produce the most comprehensive and accessible insights on carbon projects. Backed by renowned investors and partnering with leading researchers at UCLA, NASA and UCL, Sylvera is helping corporate sustainability leaders, carbon traders and governments confidently evaluate the best, and most impactful, carbon credits to invest in.
+
+By pioneering a much-needed solution and creating the first carbon intelligence platform, which provides independent ratings and market insights, Sylvera is raising the bar on project accounting and analysis, and introducing a much needed source of truth for carbon markets.",http://sylvera.com
+EMAGIN (acq. by Innovyze),"EMAGIN provides water and wastewater facilities with an operational intelligence platform that supports real-time decision making when controlling critical processes. In doing so, we’re helping facilities reduce operational costs, enhance reliability and prepare for emergencies. Our intelligent control engine is designed to reduce energy and chemical usage resulting in OPEX reductions of 25-30%. Meanwhile, our early warning engine helps operational staff proactively identify and manage instrument or process faults. Lastly, our APM solution notifies operators about how assets are performing and when to optimally maintain them.",http://www.emagin.ca
+Heirloom,"Naturally occurring minerals - alongside forests, soils, and the ocean - are one of our planet's most vital carbon sinks. Over geological timescales, carbon dioxide in the air and water chemically bind to these minerals and permanently turn to stone.Heirloom's technology enhances this natural process, called carbon mineralization, to help minerals absorb CO2 from the ambient air in days, rather than years. By combining the best of engineering and nature, they can offer the most cost-effective and scalable Direct Air Capture solution in the world.",http://heirloomcarbon.com
+Journey Foods,"Journey Foods software enables food companies to quickly grow from new ideas, or new improvement, to commercialization by configuring desired consumer preferences, generating improved product formulations through ingredient tagging, receiving automated compliance and supply chain insights on nutrition and sustainability indicators. The solutions give management teams significantly faster data to make better strategic decisions and increase the ease of monitoring products for the 3 trillion dollar packaged foods market. The Journey Foods database retains an extensive and standardized database to extract data from millions of ingredients for algorithms to dynamically analyze and methodically recommend optimized portfolio recommendations based on pricing, supply chain, and nutrition parameters. To date, the company has established a database comprised of over 2 billion ingredient insights.",http://www.journeyfoods.com
+Nilus,"There are over 2 billion people in the world who suffer from food insecurity. It doesn’t have to be this way if we consider that we waste over a third of the food that we produce in the world, while the food is perfectly edible, for reasons such as aesthetic or packaging defects, or because the food is about to expire. 
+
+At Nilus, we have developed a digital platform that facilitates the sourcing of food products that are at risk of being wasted from producers and retailers, and we distribute them at 30% to 50% of their market price among soup kitchens in low income neighborhoods. We are currently operating in Argentina, Mexico and Puerto Rico, where we have delivered over 3 million plates of food to over 90,000 people.  Since COVID-19 broke out, we have grown over 1400% between March and June. 
+
+Nilus was incubated at the Harvard Innovation Labs and received an honorable mention in Fast Company’s 2019 World Changing Ideas. Its investors include Google, Siemens and Marriott.",http://www.nilus.org
+Mellizyme,"It's our vision to build a healthy, equitable and sustainable world, and we believe we can do this by making biology fundamental to every industry on earth.
+
+Based off of 20 years of research by Professor Douglas Kell, CBE, we're building a computational platform for intelligent enzyme development. We take advantage of advanced AI and Deep Learning, combined with proprietary lab automation and genomic sequencing to intelligently navigate the vast search space of enzymes. This allows us to design and discover enzymes for any purpose, and in timelines to suit client need.
+
+We have first applied this to solve the plastics crisis, and have developed a plastic-eating enzyme that enables the bulk breakdown of mixed waste plastics. This technology will enable the direct conversion of plastics into chemicals for use in polymer manufacturing, chemicals production and other industrial processes.
+
+This technology also enables plastics to be utilised as a feedstock for bioprocesses, greatly improving the cost-competetiveness of biomaterials and specialty chemicals. 
+
+Plastics are our first target, and we have plans to, and have already begun to tackle many other focus areas in health, the environment and industrial processes.",http://mellizyme.com
+Ketos,"KETOS sits at the intersection of data science, IoT, and water automation. KETOS serves an array of industrial and agricultural enterprises, commercial businesses, institutions, cities & utilities, empowering them to make smarter decisions through real-time water intelligence and predictive analytics. 
+
+Our innovative, patented hardware, and intelligent, interactive KETOS SmartFabric provides a robust software platform for predictive and actionable metrics - delivering the tools & insights needed to optimize water usage, ensure resource sustainability and provide water safety assurance.",http://ketos.co
+"Checkerspot, Inc.","Checkerspot is a materials company. Our innovation platform enables the design -- at a molecular level -- of new high performance materials, starting with next-gen polyurethanes and textile coatings/finishes utilizing building blocks (such as triglycerides and fatty acids) never available before at scale that can impart unique high value physical properties for materials. Our approach is also more sustainable than relying on petrochemical inputs.",http://checkerspot.com
+Minimum,"Minimum’s hybrid solution of cutting-edge sustainability software supplemented by best-in-class human know-how helps businesses achieve their sustainability goals fast.
+
+We leverage the powerful scaling effects of our sophisticated technology to empower our world class in-house experts to focus on impactful, high-value analysis and advice, getting companies up and running with an all-important baseline carbon footprint and reduction strategy in a matter of weeks, not months.
+
+Our software tool is a holistic carbon management platform. It streamlines the data collection process, automates the calculations and displays the output reports. The flexibility of our data collection software allows us to customise the data collection process to each specific customer's needs. Our carbon calculations combine each customer's input data with the most appropriate emission factors, pulling from multiple datasets including leading government data sets, scientific reports and our own proprietary data. Where necessary we also fill gaps in the data with benchmarks and estimates that we are able to make from across all the companies we have previously footprinted. Our dashboards and reports are generated using the outputs of the calculations and a overseen by our sustainability experts.",http://minimum.eco
+Helios,"We want to respond to environmental challenges and bring about a sustainable economy that respects the Planet. Together let's create an alternative, transparent and low-carbon bank.",http://helios.do
+Circulor,"Circulor is using blockchain, IoT and AI to bring transparency to materials supply chains. The Circulor platform tracks raw materials from source to finished product, helping manufacturers and their suppliers build a sustainable future.
+
+Circulor's clients' raw materials concerns range from cobalt to palm oil to plastics recycling. Materials are given a dynamic identity which is the basis for a complete chain of custody, even as their composition changes during refining and amalgamation. They help customers to demonstrate responsible sourcing, to monitor inherited emissions from the supply chain and to underpin their circular economy ambitions. They help procurement and sustainability professionals see and manage what previously was invisible.",http://circulor.com
+InterAx Biotech Ltd,"InterAx is pioneering a new scientific discipline at the intersection of biology and machine learning with the aim to be on the forefront of the digital transformation of drug discovery and ultimately improve human health. InterAx is a Swiss biotech company, spinoff of ETH Zurich and Paul Scherrer Institute incorporated in 2016, reinventing drug discovery to significantly reduce the time and costs associated with the discovery and development of new drugs for a wide array of human diseases. Our solution lies in the combination of in-house experimental assays, mathematical modelling and AI to analyze and predict the physiological response of cells to drugs. We are able to describe the complex action of drug molecules in their cellular context and to guide the optimization of drug candidates to achieve a specific cellular response leading to higher efficacy and reduced side effects in humans, thus significantly accelerating drug discovery and de-risking clinical trials.",http://interaxbiotech.com
+InSilico Trials,"InSilicoTrials.com is a web-based platform, which provides a user-friendly computational modeling and simulation environment where many integrated easy-to-use in silico tools are readily available. The platform targets primarily users from the medical devices and pharmaceutical sectors.
+
+The in silico tools available for medical devices enable computational testing in different biomedical areas like radiology, orthopedics and cardiovascular during product design, development and validation processes.  For the pharmaceutical sector, the platform provides access to in silico tools developed at all stages of the drug discovery and development processes and for many different therapeutic areas.
+
+The platform further ensures users management, content protection, simulation solvers, a validated environment, IT security, results reporting, pay-per-use licenses, the computational power of cloud machines and cloud storage.",https://insilicotrials.com/
+Pipra AG,"30% of patients aged over 60 suffer from cognitive impairment after surgery. Disorientation, memory loss, difficulty in speech, and behavioura changes are among the symptoms experienced by patients affected by Post-Operative Delirium (POD). These cognitive disorders result in longer post-surgical recovery time, with increased hospital stays and associated costs. In addition, the most severe forms of post-operative cognitive disorders can lead to admission in nursing homes, dementia and even death. 
+
+After onset, POD cannot be treated. Instead, prevention can be very effective. By giving special care to high-risk patients, the incidence of POD is reduced. Our novel AI-based approach allows us to identify high-risk patients before the operation. In addition to reducing risk, it also allows the benefit of the intervention to be weighed up against the real likelihoods of adverse effects.",http://www.pipra.ch
+Scailyte AG,Scailyte has established a biomarker discovery platform that utilizes artificial intelligence to extract insights from single-cell molecular data. This gives us the ability to rapidly identify disease-associated cells and use this knowledge to develop ultra-sensitive molecular diagnostics. We first applied this approach in skin T-cell lymphoma and discovered a biomarker that detects the disease with an unprecedented accuracy of 95%. We are now scaling up our biomarker discovery effort into multiple indications in oncology and women's health.,http://www.scailyte.com
+Eyepick,"Our software makes robots execute dexterous tasks that were never automated before, by users who have no technical skills. With our software, robots can: pick, pack and sort objects of variable size and shape.
+Automation works best for highly standard and high-volume processes. Hence, manual workers are still needed today in underserved industries with a high diversity of objects or small batches. However, finding labour for repetitive, physically-intensive tasks is hard and turn-over is skyrocketing.
+We provide robotic workers as a service. Powered by EyePick, these robots are aware of their environments and can autonomously perform tasks as any trained human in unstructured environments.",http://eyepick.co
+Px HealthCare,Patiënten kunnen met OWise onder meer bijhouden hoe zij zich voelen en hoe zij reageren op medicatie. Hierdoor krijgen zij beter inzicht in het verloop van hun ziekte en hun herstel en kunnen zij die informatie delen met artsen. Voor de behandelende ar...,http://pxhealthcare.com
+MediBioSense,"[siteorigin_widget class=""Tribe_Image_Widget""][/siteorigin_widget]Who We Are MediBioSense are at the global forefront of medical wearable technologies. We",http://medibiosense.com
+cerascreen,"Cerascreen is a start-up in the digital health industry, providing self tests for blood, saliva, urine and breathing gas analysis via eCommerce and Online Marketing channels to enable point-of-care tests for patients at home, accompanied by personalized digital health assessment and analysis.",http://cerascreen.de
+Decentriq,"We are the neutral ground for secure data collaboration.
+
+Our SaaS data clean rooms enable companies around the globe to collaborate with other organizations on their most sensitive datasets and create value for their clients. The technologies we apply make it impossible for anyone to see the sensitive data, us included.
+
+Decentriq is a founding member of the Confidential Computing Consortium including Microsoft, Google, Meta and Intel.",https://www.decentriq.com
+Neurotrack,"Neurotrack works with re/insurers, pharma, and healthcare providers to develop new solutions to assess, monitor and reduce the risk of cognitive decline and Alzheimer's disease (AD). Neurotrack's core technology includes a suite of complementary solutions:
+
+-- Digital Assessment Platform: Neurotrack’s digital assessment platform uses advanced computer vision technology to create consistent and sensitive measures of cognitive health. The assessments represent a novel digital biomarker that can quantify performance across the major domains of cognition.
+-- Cognitive Health Program: The Cognitive Health Program is a digital, multi-domain lifestyle intervention that is designed to reduce risk for developing cognitive decline. This program is based on the landmark FINGER trial, which demonstrated that a multi-domain lifestyle intervention can reduce Alzheimer's disease risk and slow cognitive decline.",http://www.neurotrack.com
+Soso Care,"Our goal at  SOSOCARE is to always offer quality and affordable healthcare coverage for Nigerians. When you buy a health plan, you agree to pay a certain rate hereafter called premium to SOSOCARE. In return, SOSOCARE pays your medical bills using our innovative technology, provided they are covered by the health plan you sign up for.
+
+SOSOCARE’s plan not only helps you manage the cost of receiving medical care—whether routine or unplanned, but also creates an affordable avenue to access high quality and affordable medical services across 991 hospitals and more. At no cost to you upon signing up for a plan covered by our SOSOCARE Bronze or Silver package.",https://www.sosocare.com
+Arena Recycling Industry,"Arena Recycling Industry is a social business that collects plastic waste from beaches in Dar es Salaam and produce building materials such as Eco-Bricks, paving block and tiles out of recycled plastic waste for construction of affordable houses, toilets and other buildings in rural areas. Our solution not only contributes to plastic-free beaches and waterways, but also helps bridge the water and sanitation gap by constructing water tanks and latrines with our eco-bricks. We educate and promote the change of behavior in waste disposal, by involve community recycle’s into logistic and improve their income by buying collected plastic waste from environment, the collected plastic waste is then sorted according to plastic waste composition (density) melted and mixed with sand to produce bricks covered during courses.",http://www.arena.co.tz
+Ecoplastile,"EcoPlastile is a tech enabled (mobile app, web, USSD, location and agent based) waste management, green materials social enterprise that addresses the challenges of urban waste management (plastic pollution), chronic youth unemployment, deforestation, climate change, and indecent housing while improving access to health and education services especially for the marginalized communities. Ecoplastile has started from Uganda it's pilot market with expansion plans to other countries like Rwanda, Kenya, South Sudan, DRC Congo and the entire East African market.
+Ecoplastile has launched, “WasteInsure” a digital micro waste- health insurance program which uses garbage as a financial resource in exchange for health and education insurance using a handy phone. WasteInsure uses both a mobile application, web, USSD and agent based platform that allows people to use a mobile phone anywhere any time to exchange plastic for health insurance cover. With this program, the community and uninsured poor slum dwellers and other low income households are able to pay for health cover, drugs, and other health bills by using plastic garbage as payment to an insurance scheme. After plastic has been collected, Ecoplastile uses an innovative, chemical free and energy conserving plastic extrusion processes",https://www.ecoplastile.com
+Kudoti,"Kudoti is a digital supply chain and marketplace platform for waste materials, enabling companies to reach a zero waste impact by maximising the value from offloading waste materials, or traceably sourcing new materials for production and landfill diversion. 
+
+We work with companies to build inbound and outbound supply chains for waste materials, from source to end point, to ensure the continuous flow of materials from waste to resource. Our digital platform allows corporates, manufacturers, recyclers and municipalities to do the following:
+
+- Trace and identify and trace the origin of waste materials, locate & tally volumes to certify material recycling or reuse
+
+- Trade waste materials for any material, anywhere as well as manage and display inventory to partners
+
+- Tracking materials and product lifecycle, with full tracking of each stage and real-time updates
+
+- Rewarding and incentivising suppliers and partners with goal-setting, progress milestones, notifications & reminders and incentives upon achievement",http://kudoti.com
+Recycle Up! Ghana,"In 2014, a group of young Ghanaian and German started an initiative called Recycle Up! Ghana to tackle the tremendous waste challenges in Ghana and the world through education and empowerment of the youth. The approach is based on a core set of beliefs that young people are the change-makers of the future and that local problems need to be solved by local residents. The goal of Recycle Up! Ghana is to train the youth to be able to identify societal challenges such as plastic waste pollution and to develop local sustainable solutions that contribute to alleviating this problem.
+
+Recycle Up! Ghana believes that these plastic waste can be recycled into useful products in an exchange to save the environment from pollution. With this belief we started the Community waste recycling project which  seeks to educate, segregate, collect and recycle post-consumer plastic waste from the community level into useful products like school bags, phone cases, carabiners, furniture, building materials(bricks) etc. 
+
+We also setup a Plastic Waste innovation center to research, prototype and test products that can be developed from the recycling of plastic waste. These ideas can further be incubated as startups in our business incubator program to become fully profitable business ventures.",https://www.recycleupghana.org
+DalO Systems,"DalO Systems is a software platform that helps African waste collection operators deliver better service to their customers and easily provide reporting to government regulatory authorities. We allow waste operators to easily register and geolocate their customers, monitor operations and fleet position in real time, provide traceability of cash payments, and allow for electronic payment.  DalO systems platform is accessible on both mobile and desktop, and allows engagement across multiple stakeholders: management team, field operators, customer agents, government regulators, and customers. We enable businesses to move from analog to digital and provide applications that would meet the needs of a wide array of African businesses.",http://www.dalosystems.com
+Sesa Recycling,"SESA Recycling is a young social enterprise based in Accra, Ghana. Launched in 2019 with support of DOW Chemical and awarded in 2021 by UNDP Ghana & Coca-Cola Foundation, we are implementing recycling programs where households, faith-based organization, schools can redeem their sorted waste for products (data/airtime, mobile money, sanitation products, food or plastic items) or innovative services (pay electricity/water bill with plastics). 
+
+To date, the company:
+- Collecting and recycling 20 t/m of plastics (PET/LDPE/PP/PE).
+- Supervising a School recycling program (30 schools, ), Church recycling program (30 churches, 15,000 students), and Home recycling program (500 households)
+- Managing 2 collection centers across Accra, including a recycling centre equipped with conveyor and plastic crusher",http://sesa-recycling.com
+Yo-Waste,"The Yo-Waste cloud platform helps government & private garbage collection companies and municipal authorities to manage garbage collection logistics such as maximizing garbage collection locations while lowering operating costs in terms of fuel expenses and others. This is all achieved through our hauler app and garbage collection and scheduling mobile applications.
+
+Our core objectives as a company include;
+To create a full waste & recycling company focussed on sustainability
+To work with customers and recycling firms to divert wastes from landfills
+To develop new & innovative technologies focussed on waste management & recycling
+To disrupt the waste management industry in Africa
+To connect haulers & recyclers with businesses & households to reduce unnecessary waste transportation costs and save both environmental & economic resources.
+To help haulers & recyclers get more clients and earn extra income",https://www.yowasteapp.com
+rePATRN,"rePATRN intends to bridge the gap between the developed world that is in dire need of PET plastics and Ghana, a developing country, which does not have the infrastructure to manage the material. Rather than building a new collection system from scratch, we decided to leverage the existing informal collection system, that after extensive research, proved to be more effective than formal waste collection. It is through these informal workers, that rePATRN is looking to procure 900 tonnes of PET a month to feed West Africas first food grade PET recycling plant. 
+The journey to the recycling plant is divided into three phases. 
+In phase 1, the current phase, we are rebuilding our supply network after it collapsed post-COVID. In this phase the entire volume that is procured is sorted by color, separated from contaminants, baled and exported to Europe for recycling. There the material is used for food grade applications, textiles and packaging straps. Once we get back above the levels of September 2019 (857 tonnes), phase 2 will be initiated. Here we will evaluate where the new plant should be situated, what type of building we will need to fulfil our needs and what supplier of recycling machinery to choose to ensure highest quality pellets.  Phase 3 will see the execution of phase 2.",http://repatrn.com
+BioMec,"BioMec produces high performance eco prosthesis based on ghost fish nets and PET bottles from the sea, aimed to increase access to artificial limbs at reasonable prices, using a technology that increases compatibility between the residual limb and prosthesis creating comfort and consuming 90% less time, while recycling plastic wastes in the ocean.
+
+We improve peoples lives so they can feel and experience things that would otherwise be challenging without a well designed prosthesis, giving them confidence and productivity.
+
+BioMec believe in climate change, recycling and harmony with nature by re-purposing harmful plastic materials to lift peoples lifes providing biomechanics solutions for biomedical engineering",https://www.biomec.co.mz
+TakaTaka Solutions,"TakaTaka Solutions is a vertically integrated waste management company. We are active in waste collection, sorting, recycling and composting. We support our customers in achieving their recycling goals while also working with them on data insights and regulatory compliance issues.
+
+when there are no other recyclers for many waste materials, we invest into our own recycling infrastructure to ensure that almost every waste material gets a second life. This is why we recycle the majority of the waste we collect internally. We compost all organic waste at our own composting plant. We recycle all plastics (other than PET bottles) at one of our two in-house plastic recycling plants: One for plastic containers and one for flexible packaging. 
+
+We collect 60t of Nairobi's waste every day from hundreds of residential, commercial and industrial clients across the Nairobi Metropolitan area. We sort 40 different fractions into cardboard, paper, plastic containers & packaging, styrofoam, glass, metal, aluminum, shoes, textiles and many more fractions. We recycle 95% of the waste we collect. We recycle plastic containers and packaging ourselves; we make compost from organic waste; and work with recycling partners for other materials.",http://www.takatakasolutions.com
+Trashin,"Trashin performs waste management from collection to transformation. We educate, operate collections, track waste, extract consumption data and seek alternatives for waste recovery; strengthening the companies' reverse logistics, income generation and the local and circular economy.
+
+We operate strong projects in Circular Economy, focused in waste management and reverse logistics, bringing technology, innovation and great way to communicate the sustainable efforts.",https://www.trashin.com.br
+Instituto Muda,Instituto Muda has promoted sustainable practices in buildings through waste management.,https://www.institutomuda.com.br
+Atando Cabos,"Atando Cabos arises from the dream of restoring the coasts and ecosystem of Patagonia.
+
+In partnership with Recollect and Comberplast, we collect plastic waste that ends up all over the austral coast, to transform them again into raw material and reincorporate them into the production chain as long-term recyclable products, generating circular economy.
+
+Atando Cabos articulates between all the members of the chain, in order to collectively give a second life to the discarded plastics along the entire southern coast.",http://atandocabos.cl
+WAS Company,"Worldwide Accountability Solutions, the main objective is to generate and integrate solutions with high social and environmental impact, with a technological base, currently focused on the construction industry.
+
+WAS Co has generated 5 business units such as:
+
+Polycrete by WAS Co: Development of sustainable building materials based on recycled polymer compounds applied to structural and non-structural material, with better mechanical and chemical properties and at a competitive price.
+MWorks by WAS Co: Construction of buildings for social use such as decent housing, schools, clinics, shelters, among others, sustainable and affordable with new sustainable construction materials from Polycrete by WAS Co and a new lego-type construction system, to reduce costs up to 60%, and build the house in 2 to 3 days. The material insulates heat and cold, does not spread fire, and is highly resistant to earthquakes.
+Polycreate by WAS Co & P.olin: Development and marketing of products based on recycled materials such as: personal and household accessories, business and corporate products, interior and exterior design, among other custom designs.
+Bauss by WAS Co: Commercialization of materials for auxiliary or secondary use within the construction processes of projects.",https://www.wascompany.com/
+AddiCo,"AddiCo provides solutions to enable the circular economy of plastics, main verticals that we work for are the automotive and food packaging industries. Our solutions include tailor-made products (under the tradename AddiCo) combined with proprietary technology and know-how.
+
+Our product lines include polymer additives that allow the recycling of plastics waste, particularly coming from mixed plastics automotive post-industrial streams, and multilayer plastic films from packaging industries. We also have a family of polymer additives that allow formulation and recycling of biodegradable /compostable resins and articles.
+Our technology team fully supports the product lines that strive to provide comprehensive solutions to our customers (product+process).",http://addico.com.mx
+ReciclApp,"ReciclApp is an application that seeks to optimize and improve the recycling process in Chile, joining people who have reusable material, with recyclers willing to remove this material and market it freely",http://reciclapp.cl/
+Algramo,"Their business model is focused on a  distribution channel of basic needs products in bulk. Revolving around retail sale through dispenser machines in returnable packaging they aim at reducing prices, responding to the problem of lack of liquidity in low-income families that cannot buy higher volume formats, combating poverty tax and further reducing the environmental packaging impact.
+
+Algramo aims to establish a wholesale relationship with manufacturers of consumer products such as detergents, rice and oil, amongst others, in order to buy the products in bulk, saving packaging costs significantly without lowering the quality of the product . Thus, bulk suppliers are able to distribute products in stores in large quantities, whilst reducing logistics costs.",https://algramo.com/en/home/
+ecoins,"Ecoins tackles the low recycling rates in Latin America by addressing the challenges  experienced by three main stakeholders: 
+• Collection centers: By 2018 only 4.5% of waste in Latin America is recycled, in large  part due to the fact that most waste management systems still lack the capacity to  collect recoverable waste separately.  
+• Producers: Extended producer responsibility (EPR) is starting to gain traction in  LATAM, and companies are taking significant steps to recover the materials they put  into the market and use recyclable materials in their packaging (eg. Pepsico, Nestlé).  However, they are facing collection bottlenecks.  
+• Consumers: They are progressively more aware of the need to do responsible  consumption. But because municipal waste collection / management systems  haven't shown leadership in recycling, many citizens willing to recycle lack the basic  knowledge, means or incentives to do so.  
+Through an online platform (app + web) as well as communication and educational  campaigns, ecoins incentivizes the consumer to separate waste and take it to existing  community or municipal collection centers, rewarding them with the ecoins currency which  can be exchanged for discounts and promotions from partners.",https://www.ecoins.eco
+Green Mining,"Green Mining has developed an Intelligent Reverse Logistics technology to efficiently retrieve post-consumer packaging and bring it back into the production cycle with full traceability using IoT and blockchain.
+
+Green Mining intends to continue increasing the amount of collection operations throughout Brazil and the world, and consequently the amount of waste that will be guaranteed recycling, collaborating with the environment, in addition to giving dignity and respect to more and more workers.",http://greenmining.com.br
+Triciclo Soluções Sustentáveis,"Deliver your packaging and recyclable material and earn with it!
+Through an innovative collection program distributed in several public and private places, your waste is worth tricycle points that can be converted into several benefits!
+The most complete and fun environmental loyalty program!",https://www.triciclo.eco.br
+so+ma,"So+ma offers a loyalty program to create new habits and expand opportunities in low-income communities.
+
+The program has advantages over the same logic as any other loyalty program, with a differential: behavior is the currency of exchange. 
+
+From the attitude of the citizen (recycling, saving money, encouraging reading and or having adequate food), anyone accumulates credits that can be exchanged for: training courses, services, discounts on local commerce, food, among others benefits.  
+
+Through technology and using behavioral science the company expand citizens' choices by encouraging healthier and sustainable attitudes and habits. This fosters individual and social development. The major attitude that is being promoted up to now is recycling.",https://somavantagens.com.br
+ECO PANPLAS,"ECO PANPLAS is an innovative startup industry of contaminated plastic packaging recycling, that performs this process without using water, without producing waste and with a high C02 emissions reduction, achieving great socioenvironmental benefits and through its own technological solution, 100% Brazilian, disruptive and pioneering worldwide, solving today's major environmental problems: climate change, plastic pollution and preservation of resources, especially water resources.
+
+We have developed an innovative production system, composed of equipment and processes patented, that performs the decontamination and recycling of lubricant packaging in an ecological way: without the use of water, without waste generation, and 30% less cost than the process used by our competitors today. More than that, all residual oil is recovered and sold for the production of new oil, eliminating the environmental risk. The result is a recycled raw material of excellent quality, that we sale for the production of new oil bottle, 100% made of our recycled plastic and with 10% cost reduction, thus creating a true circular economy.",https://www.ecopanplas.com.br
+Rekosistem,"Rekosistem is an end to end zero waste ecosystem Start-Up that aims to redefine existing ecosystem to be more eco-friendly and sustainable. Rekosistem operates based on circular economy principle. Our solutions improve how the waste value chain works to be more productive and efficient with minimal behavioural changes. We believe in technology and innovation, they are implemented our pillars as follows:
+
+1. Rekosistem App
+The zero waste ecosystem app that enables user to apply sustainable living with certain features such as routine pick-up, transfer/ sell your waste, and waste pick-up.
+
+2. Repick - IoT Drop Box
+This product is a smart bin for plastic waste of products packaging. User can drop certain classified plastic waste into the Drop Box. The drop box will directly reward digital money per waste dropped to user.
+
+3. Renergi - IoT Biodigester
+ Biodigester that converts the organic waste to valuable biogas and biofertilizer.
+
+Which goals or milestones have you reached so far? Are there details you would highlight as achievements to date? 1. We participate in several accelerator programs such as MRT Jakarta Acceleration, Startup Studio by Ministry of Communication and Information Indonesia, Plug & Play End Plastic Waste Program, and OPPA Accelerator by SecondMuse. 2. Secure 5 B2B Partnerships that consist of Private Company and Government. 3. 219 Individual Users of Mini Composter for Organic Waste. 4. 168 Individual Users, Send Your Waste and Waste PickUp
+
+Deck(s): https://api.typeform.com/responses/files/d6ee3ea1a62c3000ff046f796536714d76c1ffa7641a03ccdc7bc37dd8122143/200921_Rekosistem___Deck_Updated_compressed.pdf
+Video(s): https://bit.ly/rekovideo",http://www.rekosistem.com
+Re>Pal,"Re>Pal is based in East Java, Indonesia, with a small HQ in Australia as part of its ASX listing (ASX RAN). We recycle waste into logistic pallets and work with large multi-nationals such as Unilever OleoChemicals, Nestle, SC Johnson, LF Logistics, Danone as well as large domestic Indonesian companies. We are recycling waste, diverting it from landfill and in 2019 we diverted 5,800,000kg of waste, cleaning it and recycling and extruding into pallets. We also use corporate waste, which is ideal as it is generally clean & post-factory waste. As a part of this partnership with a growing yet small number of corporates for their waste, we are seeing interest in multi-layer plastic waste recycling into our Re>Pal pallet. This is a huge potential for Re>Pal as it will also drive the adoption of our pallet instead of companies relying on the traditional and unsustainable hardwood timber pallets. This initiative will also drive down waste/ raw material pricing and see our COGS improve.",https://www.re-pal.com
+PolyCycl,"	PolyCycl’s technology chemically recycles waste plastics to high value petrochemical feedstock and fuels.
+
+	The company is today one of handful companies globally, that has developed a differentiated, continuous (non-batch) and scalable process. 
+
+	The technology is highly scalable, with single modular lines of upto 75 TPD each. Multiple such lines can be implemented in parallel to setup projects to process  several 100,000 tons of waste plastics per annum.
+
+	Generated fuels have been analyzed by a petrochemical major and confirmed to be compatible for steamcracking and manufacturing of new plastics.
+
+	The continuous process architecture enables a capEx and OpEx reduction of up to 50% vis-à-vis first generation batch variants. 
+
+	Yield 830 – 870 litres per ton of waste plastic. Project EBITDA 40% -65% ; IRR(e) > 25%. 
+
+	Readiness to implement projects in EU, USA, India, South East Asia.
+
+	Video related to the technology: polycycl.com/full_video.html",http://www.polycycl.com
+Plastics For Change,Plastics For Change enables industry partners to transition towards a circular economy while measuring progress towards the Sustainable Development Goals. Plastics For Change is expanding its plastic recycling centers to coastal communities riddled with plastic pollution. The franchise model for plastic collection is empowering wastepickers to become wantrepreneur.  The company partners with global brands and manufacturers to catalyze positive change in communities that need it the most through responsible supply chains. The company’s mission is to break the cycle of poverty for millions around the world at the base of the informal recycling supply chain and prevent ocean-bound plastics from contaminating the environment.,http://www.plasticsforchange.org
+Myanmar Recycles,"Since 2017, Myanmar Recycles has been providing an industrial scale solution to Myanmar’s plastic pollution problem with support from Yangon City Development Committee (YCDC) through a partnership at Myanmar’s largest landfill. MR is the leading recycler in Myanmar with a vision of a zero plastic waste future.  We focus on plastic film that is simply too dirty for other companies to recycle: Myanmar Recycles collects, sorts, washes, and recycles traditionally unrecyclable, valueless post-consumer plastic film that is significantly contributing to our global plastic waste crisis. MR has developed a scalable collection model that works in countries with little to no plastic collection infrastructure. We work with marginalized and low-skill communities to collect plastic, while providing transparency and fair wages and creating a value for plastic waste that will make it more likely to be collected and recycled.",http://www.myanmarrecycles.com
+Ishitva Robotic Systems Pvt Ltd,"Ishitva aims at solving real-world problem of Waste by building automation solutions based on industry 4.0 tools, including Artificial Intelligence, Machine Learning and IoT. Effective sorting of the waste is currently the weakest link in creating circular value chain. Therefore, to avoid dumping and burning of the dry waste, we particularly focus at creating effective and efficient sorting system to improve both quantity as well as quality of recycling activities. Our solutions use computer vision to make sorting more efficient at different stages of the waste value chain. With a futuristic vision of revolutionizing the recycling industry, today we provide solutions for automated picking, sorting, and segregation of plastics based on composition, color, brands etc. Our current solutions include SUKA AI-powered Air Sorting, YUTA AI-powered Robotic Sorting, Netra Machine Vision system, and Sanjivani Fully Automated MRF plant for decentralized sorting applications.",http://www.ishitva.in
+BluePhin Technologies,"BluePhin Technologies is a youth led, cleantech company disrupting age old environmental conversation techniques by leveraging technology. Our first solution, BluePhin is a smart robot that can autonomously collect waste in water. The BluePhin team has been featured on CNN, Dubai Eye and several sustainability podcasts for their hard work and perseverance to fight climate change and decarbonize our economy.  The team has since won the Sharjah EF Pitch Competition, Unilevers Young Entrepreneur Award, exhibited at GMIS, Gitex Future Stars, and was invited as a speaker to several conferences like the WGEO and UN ESCWA Technology Meeting.",http://www.bluephin.io
+Banyan Nation,"Recycling activities in much of the developing world are relegated to the shadow economy or the informal markets. Banyan Nation is a new age recycling company that is formalizing the informal supply chain through a data intelligence platform and has developed a pioneering plastics cleaning technology to produce near virgin grade recycled HDPE material. Banyan's innovative business model has unlocked ‘Circular Economy’ in India compelling responsible brands such as Unilever, Reckitt Benckiser, Shell, Tata Motors to use thousands of tons of recycled plastics instead of virgin plastics. 
+
+Banyan collects thousands of tons of discarded post consumer HDPE waste such as shampoo, lotion, edible oil, engine oil bottles through its informal recycler network and recycles them into high quality recycled HDPE Blow Grade granules at its state of the art recycling facility in Hyderabad. Banyan Nation won the Dell Circular Economy People’s Choice Award at the World Economic Forum, Davos in 2018.
+
+Milestones & Achievements: Developed a robust and traceable informal supply chain; developed plastic washing technology; signed contracts with FMCG and Auto Majors; raised $7.8M to build a state of the art recycling facility; commercially supplying materials as per signed contracts.",http://www.banyannation.com
+BlockTexx,"BlockTexx is an early stage clean technology company that recovers polyester and cellulose from textiles and clothing.
+
+Through an Australian developed patent pending process that combines chemical recovery technology and advanced manufacturing to produce high quality recycled materials of rPET pellets and cellulose powder from textile waste.
+
+BlockTexx is positioned at the end of the value chain, where raw materials and end-of-use solutions have the highest environmental impact and revenue potential.",http://blocktexx.com
+Bintix,"Bintix brings together two seemingly separate problems/markets- waste management and Fast Moving Consumer Goods (FMCG) marketing. Problems plaguing both sectors are solved by Bintix in one stroke. 
+
+Bintix generates consumer consumption data from waste thereby making the value of the plastics (low/high) irrelevant. This removes systemic collection bias and ensures that every plastic matters and is collected -  preventing plastics from entering the water bodies right at source. Valuable data from waste helps avert FMCG companies from making inaccurate/imprecise marketing decisions due to current data paucity/unreliability in India and abroad.
+
+Bintix has completed Proof of Concept with Unilever, L'Oréal, Kellogg's, Godrej, J&J and others to establish data product and has scaled up operations to 6 cities across India to obtain Pan-India data. Revenue from data on top of the revenue from plastic recycling/service makes the model sustainable and scalable globally.
+
+Novel value to waste!",http://www.bintix.com
+APChemi - Agile Process Chemicals,"We are leaders in pyrolysis - commissioned 30+ pyrolysis plants since 2007
+
+Pyrolysis and oil purification technology patent granted. 
+
+We offer Patented  PUREMAX™  Technology to remove organic contaminants of Cl, O, S, N from pyrolysis oil.
+
+Our product,  PUR♽IL™  is produced from post-consumer mixed plastic waste and biomass waste.  PUR♽IL™  is the best feedstock for the production of retail-blended biofuels, circular polymers and sustainable chemicals. 
+
+We offer CARB♽N-TRANSITI♽N™ SOLUTIONS and  PYROMAX™  pyrolysis technology.",http://apchemi.com
+Poliloop,"We developed a microbial cocktail that degrades, metabolises and mineralizes fossil based plastics. Our process is applicable to all sorts of single-use plastics (PET, PP, LDPE, HDPE, PS, CPE, EVA -all tested) and can operate under suboptimal conditions.  we have tested these plastics separately and mixed in together as well. The listed plastics are post-consumer waste plastics: colored, clear, sterilized and plastics with food debris on them. This method not only solves the plastic issue but also generates valuable end-products: bioplastics and biogas. With these, our aim is to create a circular, thus more sustainable economy. The process itself can be described as follows: we take a blend of hydrocarbon based plastics, put them in a batch with the bacteria, our minimal essential media and water. Afterwards in about two days we can macroscopically confirm the beginning of the degradation process. Complete degradation of the polymers will take about two months.",http://www.poliloop.com
+Greenback,"We are solving a global problem by creating an ethical, predictable, and liquid market for certified recycled plastic that’s safe to use in food-grade packaging
+
+Greenback is creating a solution for post-consumer waste plastic which supports the United Nations’ Sustainable Development Goals. We are implementing an efficient, scalable and distributed process that offers consumers a better product while providing full transparency and traceability. We support local economies to help them extract untapped value from waste. In developing countries, we create fairly-rewarded, safe jobs and new income streams for thousands of waste pickers.
+
+We are building a decentralised network of recycling plants near the sources of plastic waste, which we buy from local collectors. We use the infrastructure already in place and combine it with our advanced technologies to provide feedstock for the production of food-grade packaging at scale. To evidence the recycled content in the packaging, we use our ecoVeritas certification system, based on blockchain and AI technologies, giving brand owners and consumers confidence from shelf to shelf.",http://greenback.earth
+Urbyn,"Urbyn is a young clean tech developing a smart waste management platform.
+Our mission is to help companies reduce their landfill waste by matching them with the best up-cycling and recycling solutions.
+To do that we have built a network of 400+ haulers and recycling companies and a waste management software.
+Our solution allows our client to increase their recycling rate by 20%, decrease their waste cost by 20% and improve waste traceability.
+
+History : 
+2019 : first year of commercialisation 140 k€ revenues
+2020 : target 750 k€ rev.",https://www.urbyn.co
+Naturbeads,"Plastic pollution is not just due to plastic packaging. Many products contain as much plastic on the inside as they do in their packaging. And yet most innovations focus on plastic packaging that can be collected and recycled.
+Naturbeads is one of the few companies focusing on the plastic inside the products. Plastic microbeads are intentionally added to personal care and cosmetic products, paints and coatings, adhesive, inks, detergents and many other industrial and consumer products. The global market for microbeads is $6 Billion in 2021 of which the plastic market share is $1 Billion.
+We have already completed a pilot plant (1 ton/year) and we have three customers in personal care and cosmetics and paints and coatings and additives, which have successfully tested our material and are interested in purchasing our beads (business opportunity 400 tons/year).
+We are now looking for funding and partner to accelerate the scale up and commercialize our technology ahead of incoming regulations (https://echa.europa.eu/fr/-/working-on-the-world-s-broadest-restriction-of-intentional-uses-of-microplastics).",http://www.naturbeads.com
+Aquapak Polymers Ltd,"Aquapak’s polymers are non-toxic, marine-safe and soluble in warm or hot water.
+Aquapak products such as Hydropol™ are specially engineered materials that can create a range of packaging products that are specially targeted to make unrecyclable packaging fully recyclable within existing waste streams and thereby reduce the amount of ‘single use’ plastic being used.
+
+They allow users to maintain the primary functionality of their products whilst designing-in end-of-life recyclability, anaerobic digestion or compostability.
+
+We produce stable resin pellets that are converted by our network of manufacturing partners using their existing machinery.
+
+Our polymer pellets can be manufactured into a single-layer plastic film, extrusion coatings, laminations to paper or board and injection mouldings.",https://www.aquapakpolymers.com
+Litta,"Litta are turning mobile gamers into citizen scientists.
+
+Our solution gives individuals the tools to tackle litter in their local community, local authorities the data to make informed decisions and brands the platform to engage an increasingly sustainably minded consumer.
+
+Individuals -- a mobile-based game that enables users to utilise augmented reality to 'capture' litter and feed it to their LittaBug, compete in community challenges, win prizes and learn about the effect and danger posed by litter.
+
+Local Authorities - We use the data captured to overlay litter hotspots with local authorities' current infrastructure and street cleaning routes to identify potential efficiency improvements in the EOL of the supply chain. We help address the issue of ""binfrastructure"", recording locations and typology of bins whilst also providing an innovative solution to help with litter surveys and comparative data sets across local authorities, an issue identified by DEFRA in the ""Litter Strategy For England"".
+
+Brands/Producers - We integrate augmented reality marketing and brand-sponsored competitions into the game and use data to identify recyclability issues of their packaging and reduce their usage of single-use plastics.",http://www.littahunt.co.uk
+Trebo,"We have made it our mission to provide the plastics industry with technologically advanced tools that help limit plastic waste through circularity. We believe that plastic should be recycled, not down-cycled.
+
+Our novel sorting system allows plastics converters and brand owners to recycle plastic waste that current technologies cannot handle.
+We sort complicated plastic mixtures into individual plastic types, obtaining very high purities. This means that the sorted plastic types easily can go back into production, enabling closed-loop recycling.
+
+The system's scalability makes on-site implementation possible, allowing plastics converters and brand owners to obtain full control and traceability of their own waste streams. Moreover, our tonnage based lease model makes our system profitable from day one, both economically and environmentally.
+
+Our aspiration is to change the entire mindset of the plastic recycling industry, from a centralized, volume focused mindset to a decentralized, quality focused mindset.
+
+So, if your company has a plastic waste headache... We can sort you out today.",https://www.trebo.dk
+Circular in Motion,"The buy & sell e-commerce platform for certified circular materials.
+
+The platform enables companies to connect, generate business, and create value chains around sustainability and circular economy. We promote interconnectivity of companies, materials, and industries to operate in an unrestricted digital environment.
+
+We offer a trustworthy ecosystem that facilitates and certifies commercial transactions in a secure digital environment, via blockchain technology. Through transparency, the platform promotes proof of origin and traceability of the sustainable and circular materials to enable the shift toward a Circular Economy.
+
+We enable our users to gauge supply and demand mismatches, promoting long-lasting commercial relationships and ensuring long term demand aggregation whilst creating added value to businesses and society. We make circularity a reality.
+
+Circular in Motion adds value by offering a comprehensive solution on:
+1.	Value chain connectivity and creation
+2.	Traceability & proof of origin
+3.	Transparency and visibility
+4.	Standardisation
+5.	Gauge supply & demand
+6.	Increase marketability of recyclates/renewable materials
+7.	Smart contracts and operational efficiencies",https://www.cirinmo.com/
+Diwama,"Transparency and traceability are key to connect the waste value chain and drive sustainability and this is why Diwama is on a mission is to collect smart data on waste streams and translate them into actionable insights to drive green behavior and improve operational efficiencies across the waste value chain.
+Diwama is working on “Vitron”, an AI-based image recognition software that automates waste analysis to drive recycling revenues.
+Vitron consists of a supervisory unit, an AI vision and an online dashboard.
+The supervisory unit is a camera connected to a computer which are installed above conveyor belts in waste sorting and recycling facilities. The AI vision is a deep learning algorithm which is installed on the computer and trained to detect the several types of waste passing on the conveyor belt in real time based on what the camera sees. 
+Data analytics and KPIs will then be displayed on an online dashboard along with actionable insights to optimize the facility performance, increase recycling rates and increase purity of recyclables.
+
+Vitron Features:
+•	Real time and historical data on waste classification based on type, weight and brand
+•	Quality control over sorted plastics
+•	Maps waste composition to source
+•	Provide consumer behavior analysis",https://diwama.com
+Veridis,"We are an ambitious start-up, aiming for a significant improvement of the quality control in the plastic recycling industry. We are developing new analytical technologies to improve material property characterization of plastics and complex materials.  Currently, we are realizing our Proof-of-Concept, and aim for pilots later this year. Therefor, we are actively searching for partners that can help us in this journey.
+
+Conventional DSC devices are highly accurate and process all types (and colours) of plastics but can only process samples of approximately five milligrammes of plastic flakes per scan (about 1-2 flakes). With an average batch of plastic (one big-bag) weighing one tonne (1000 kg), a quality scan of a mere five milligrammes is not representative nor reliable to assess the quality of such batches.
+
+In order to make analyses reliable and scalable, our MADSCAN device will be able to provide samples for up to 500 grammes of plastic per scan,  whilst maintaining the same level of accuracy (99%) and plastic range. This increases the analysis capacity by a factor of 100.000 per scan without a decrease in accuracy or applicability.",http://www.veridis.tech
+Reath,"Reath are experts in safe reuse of everyday items, from packaging to PPE. The Reath system is a combination of machine-readable tags with our Open Data Standard, reuse.id. We designed our platform to succinctly and comprehensively capture all the data points needed to run a safe, compliant and optimised reuse system. 
+We are building the digital infrastructure for the circular economy.",https://www.reath.id
+Empower,"Empower is creating a solution to the plastic waste problem by giving plastic a value.  By introducing an easily deployable digital deposit system, where plastic waste collection and recycling is incentivised, they are cleaning up the world while fighting poverty by providing a wage to those in need. 
+
+The digital deposit systems provides financial incentives to crowdsource collection and segregation at source, vastly lovering the costs of collection and recycling of plastic waste while also contributing to higher quality materials. Empower has piloted its system in 16 countries across Europe, SE Asia and Africa and has permanent collection points in 7 countries where plastic waste is collected and brought to recycling. 
+
+Through Empowers system it is possible to source socially collected plastic waste and track its journey through the value chain, from collection to recycled products. It is a fully digital, scalable & easy to deploy system that can be a core part of any supply chain.",https://www.empower.eco
+Ichthion,"Ichthion, a multi-award winning company born out of the laboratories of Imperial College London, seeks to overcome the limitations of existing technologies by delivering the first truly scalable solutions to reduce the flow of plastics into the world’s oceans, proposing energy-generative systems that uniquely can installed in rivers, coastal areas and the oceans to remove plastic waste and generate data.
+We have developed three types of technology streams, Azure, Cobalt and Ultramarine. These operate in different environments to prevent macro and micro plastics entering into the phytoplankton growth areas in coastal zones, and also for the reclamation of plastics in the ocean. Our systems are in Technology Readiness Level 4 (Test system Validation in lab environment). 
+
+Our technologies have been designed to provided data about the plastic, which we use to inform goverments about strategies of circular economy that can effectively reduce the pollution entering the waterstreams.",http://www.ichthion.com
+Interface Polymers,"We are about to revolutionise the polyolefin industry. With radical new solutions to long-standing compatibility problems, we are opening up a new world of opportunities in polymer blending, joining and finishing. Whichever polyolefin market you are in, we have a compatibility solution for you.",https://www.interfacepolymers.com
+The Great Bubble Barrier,"The Great Bubble Barrier wants to remove as much plastic as possible from the environment. We will achieve this by ensuring that as many inland waterways in the world as possible are free of plastic, so that the plastic soup in our oceans is dramatically reduced, and will not increase (supporting the initiatives of The Ocean Cleanup). By doing so, we want to improve water quality and the quality of life for humans and animals.
+
+We filter plastic from the water by strategically placing bubble curtains in rivers, canals and channels. In this way, we want to sustainably recycle plastic to the supply chain. In addition, we want to bring awareness of the plastic pollution problem, in order to prevent the increase of plastic ending up in the waterways. And ultimately, we want to make the Bubble Barriers completely unnecessary!",http://www.thegreatbubblebarrier.com
+Upp! UpCycling Plastic,"Every year, 300 million tonnes of plastic gets thrown out as waste, with under 10% being reused or recycled. Most of the plastic waste is being incinerated with a high carbon footprint and a lot of toxic air pollution as a consequence. And a lot of plastic waste ends up in the oceans, killing fish, birds and even ending up in our food chain.
+
+Upp! takes action against plastic pollution. Upp! is currently active in the Netherlands and in Vietnam. We want to close the plastic circle locally. The products we make are designed for circular use so should be re-usable or recyclable. Modular, easy to assemble and disassemble when needed. Durable so re-usable at end-of-use and 100% recyclable so truly circular if needed. Products as a service business models to be developed. Lease or deposit schemes to be applied. And everything together with the customer.",https://www.upcyclingplastic.com
+Greyparrot,"At Greyparrot, we provide waste recognition software that identifies materials using AI-based computer vision to monitor, audit and sort waste at scale. Our goal is to empower waste managers with actionable insights to increase recycling rates. Our first product, an Automated Waste Monitoring System, is currently deployed on moving conveyor belts in sorting facilities to measure large waste flows. The system provides waste analytics to increase resource capture, give quality guarantee to buyers and mitigate against risk. We are committed to unlocking the financial value of waste, which will, in turn, support our transition to a circular economy and keep our environment clean for generations to come.",https://greyparrot.ai
+Plastic-Back,"Plastic Back has developed a technology able to convert plastic waste to crude oil and other valuable chemicals. Our product, a conversion unit based on this technology, allows treatment and land-fill sites to reduce the amount of waste land-filled. On the other side, our solutions allows 'waste producers' such as factories, agriculture operations, hospitals and more the alternative to their high removals and treatment fees they pay for waste removal.
+By treating the waste with our innovative,  chemical solution, we are able to:
+1.	Work in room temperature: under 100 C. a Hugh economic advantage compared to competition (600-1200 C)
+3.	Develop physically small units compared to competition
+4.	Work in a closed system allowing use to control all aspects of the conversion unit and reduce and even eliminate GHG emissions
+
+Plastic Back won 1st place in HP's 'carbon neutral' competition and 2nd place in the prestigious New Energy Challenge by Shell",https://www.plastic-back.com
+Impact Recycling,"Impact Recycling has developed a breakthrough plastic recycling technology which separates the components of post-consumer, mixed plastic waste to recover two consistent streams of plastic; polyethylene (PE) and polypropylene (PP), each with a 98% purity. Our water based, density separation process is known as BOSS (Baffled Oscillation Separation System). The purity of the recycled PE & PP produced by BOSS ensures a high value product to meet the demand from the plastic moulding industry. 
+BOSS recycles the hard to recycle plastics left behind by waste companies and is a driver of significant quantities of plastic away from landfill and incineration. The mixed feedstock we process makes up 60% of the plastic sent to landfill or incineration in the EU.  Existing solutions either cannot technically separate this plastic or do so in an economically unviable way. BOSS technology is also colour agnostic, allowing effective separation of black material not possible with existing technologies",http://www.impact-recycling.com
+Plastic Odyssey,"Plastic Odyssey aims to promote and make recycling technologies accessible. To do so, we develop low-tech and open-source technologies to valorize plastic waste.
+These machines are based on existing technologies that have already proven to be successful as far as sorting, recycling, and pyrolysis are concerned. However, they have to be improved and adapted to be mobile, budget-friendly, easy to produce and to repair. Blueprints will be available online for free so that everyone can have access to them freely.
+To promote sustainable practices and technologies, Plastic Odyssey will embark on a 3-year expedition, +30 stopovers, 40,000 nautical miles sailed to study local cultures, needs and use of plastics and initiate the building of small local recycling units and waste reduction initiatives. We have financial partnerships with L’Occitane en Provence, Clarins, Matmut, and Groupe Crédit Agricole.",https://www.plasticodyssey.org
+Recycleye,"Current waste sorting infrastructure relies on huge facilities far outside city centers that still depend heavily on expensive manual picking (exposing workers to health hazards). 
+
+Spun-out from academia, Recycleye developed an ultra-low-cost computer vision sensor capable of classifying all items in waste streams by material type and brand (costing <£300 vs traditionally used NIR sensors that cost >£40k and only detect plastics) – it is continuously being improved through our active partnership with Microsoft and the Imperial Data Science Institute. The ‘material passport’ logs generated will enable waste pickers/traders/facility managers to understand levels of contamination (and place an exact value on each ton of recycled plastic – turning waste into an easily tradable commodity). By leveraging this with affordable robotics the company is working with partners to launch an autonomous low-cost sorting solution that is unlocking the value-add behind decentralized sorting.",https://www.recycleye.com
+Circularise,"Sharing information across supply chains can present challenges, not only because of the inherent complexity and scale but also due to concerns around trust, privacy and confidentiality. 
+
+Circularise has developed a patent-pending technology to enable supply chain transparency for materials and products via creating a digital twin on a public system that avoids exposing sensitive data. This enables material producers, OEMs, and manufacturers to trace raw materials from source, into parts and ultimately to the end product and end of life recovery. This innovative technology enables companies to show ""good-stewardship"" practices towards customers and regulators, but at the same time maintain control over the information they share to improve collaboration and competitive advantages.
+
+We have a proven track record of working with companies such as Marubeni, BASF, Covestro, Domo Chemicals, Stanley Black & Decker, Arcelik, Porsche and a number of their Tier 1-2 suppliers.",http://circularise.com
+Thread,"Thread collects plastic waste from the poorest neighborhood around the world to turn it into fabric. The connection made between the bottom of the supply chain to the consumer not only instantly improves the social and environmental impact of the products but also makes Thread the most responsible fabric on the planet. Thread increases job opportunities in developing cities while enabling the traceability of the products. Thread has also recently been partnering with Aerie, Reebok, Timberland, and Marmot.",http://www.threadinternational.com
+Universal Matter,"Universal Matter Inc. was formed in July 2019 to scale-up and commercialize a breakthrough process (Flash Graphene) to produce the best and the most affordable graphene. We make this high-value material using simple carbon ingredients such as recycled plastics, turning a waste product into a resource. Meanwhile, adding graphene to other materials makes them stronger, lighter, and more resilient while dramatically cutting their carbon footprint, contributing to a more circular economy. Our technology is expected to support broad adoption of graphene across several major industries. Universal Matter has signed an exclusive worldwide license with Rice University to fully leverage this technology for development of graphene solutions. Our vision is to become the world’s leading supplier of the highest quality, most economical graphene products using a broad range of carbon materials, including biomass and recycled plastics to dramatically reduce GHG emissions and solid waste streams.",http://universalmatter.com
+Scrapo,Plastic Recycling Marketplace: Connect and trade directly with suppliers & buyers of recyclable plastics. Browse through thousands of offers in top categories. All types of plastic for your recycling or manufacturing needs.,http://scrapo.com
+rePurpose Global,"rePurpose Global is the world's leading Plastic Action Platform making positive environmental impact accessible for anyone, anywhere. Our one-stop solution empowers purposeful people and companies to go Plastic Neutral by meaningfully reducing their plastic footprint and financing innovators solving for our planet's future.Through rePurpose Impact Projects across 3 continents, we are creating systemic change for people across 26 countries and hundreds of conscious brands, including Grove Collaborative, AB InBev, The Hut Group, Google, Dalberg, and Colgate. On behalf of this global coalition, we eliminate millions of pounds of plastic waste from nature every year, and in doing so, improve the lives of 9,500+ marginalized waste workers worldwide.",http://repurpose.global
+Replenysh,"Replenysh is building technology to help brands close the loop on their products and materials. We are currently focused on the broken waste and recycling industry, which sends $275 billion of material to landfill each year. Our vision is the end of landfills and plastic pollution. To achieve this, we are building tools to reinvent the collection, transportation, and sale of secondary materials while delivering an enhanced customer experience for all participants.
+
+Built by an experienced team with domain expertise, world class design and technical talent, and strong industry relationships, we are backed by leading angel and venture capital investors including Kindred Ventures, Floodgate, and 122WEST.",https://replenysh.com
+Recyclops,"If you're in the city, you probably put your recyclables at the curb next to your garbage. But many rural areas in the United States have little or no access to such services. Recyclops is keeping an eye out for those folks.
+The company hires local independent contractors with pickup trucks, using a tech-driven smart routing app. Recyclops serves more than 3,500 homes and plans this year to more than double that number across 40 cities nationwide.
+Recyclops operates in Utah, Idaho, Colorado and Arizona, and is expanding into Texas, the CEO says. Since its inception in 2014, the startup has recycled nearly 2,000 tons and diverted 4 million pounds of waste from landfills. Recyclops charges $10 a month for twice-monthly pickups. For businesses, Recyclops provides glass recycling services as well.",http://recyclops.com
+Olyns,"The Olyns solution is a highly scalable, advertising funded HW/SW platform designed to collect and sort recycled plastic and aluminum in locations with high pedestrian traffic. 
+
+The company’s proprietary recycling machines and mobile app provide compelling gamified incentives for users to recycle their plastic and aluminum containers in the machines. Once deposited, machine learning algorithms sort and crush the material. 
+
+When the machines are approaching full, an alert is sent via the app to gig workers who empty the machines and transport the material directly to processors in return for payment. 
+
+Digital out-of-home advertising provides revenue and is shared with host locations as an added benefit of hosting the machines. Host locations can be: grocery stores, big box, cinemas, malls, transportation hubs, etc.",https://www.olyns.com
+Net Your Problem LLC,"We build coalitions of interested stakeholders, interested in reforming the waste management system, to move towards a responsible disposal method for end of life fishing gear.  We are currently active in Alaska, Maine and California and are building programs around the world.  We believe that landfill or indefinite storage are not the best disposal method for end of life fishing gear, and are working on collecting it and determining the best recycler based on location and capacity, to mechanically recycle end of life fishing gear.  We enable this material to get back into the supply chain so brands and manufacturers can use fishing gear plastic to replace virgin plastic in their products.  As of Sept 2020, we have collected 880,000 lbs of fishing gear for recycling.",https://www.netyourproblem.com
+Intermix Performance Materials,"Our polymer additive enables the valorization of mixed plastics at low cost producing a high quality alloy.
+ 
+Polypropylene (PP) and polyethylene (PE) account for about 2/3 of all plastics in post-consumer waste. Due to their different structures, they are not miscible, resulting in plastic mixtures with unacceptably poor strength. One way to create higher quality recycled materials is to perform careful manual separation, but this is expensive and the separated materials still exhibit performance that is inferior to pure PP and PE unless separation is near perfect.
+ 
+Intermix has developed a polymer additive that when added to a stream of mixed PP and PE enables these two polymers to be combined, yielding a polymer alloy that is mechanically comparable to pure PE and PP samples. This obviates laborious and expensive sorting. The polymer additive is particularly potent - as little as 0.5 wt% effectively compatibilizes mixtures with as much as 30% PP contamination.",https://www.intermixperformancematerials.com
+Circ (formally Tyton BioSciences),"Circ (formally Tyton) is headquartered in Danville, VA where our research takes place. Danville is a former textile town located on the Virginia/North Carolina border, an hour north of the Research Triangle.
+
+Circ developed a solution to chemically recycle blended waste textiles (cotton and polyester) to economically recover both products. The system uses sub-critical water to de-polymerize the polyester so that the TPA and Ethylene Glycol can be recovered from the liquid stream. These polyester monomers can then be polymerized into polyester, replacing oil; as a feedstock. The solid fraction, residual cotton, is converted into a high quality cellulose for use in making viscose, lyocell or acetate, replacing trees as a feedstock.
+
+Circ is in the process of scaling its technology and is currently testing with multiple corporate partners across the textile supply chain, through to major global fashion brands.",http://circ.earth
+Muuse,"Muuse is as much a global movement as we are a company. With nine different nationalities represented on our team, we are young and passionate changemakers that are disrupting togo packaging. Through our data-driven platform, our thoughtfully designed togo containers, cups, and bottles, and a growing network of cafes, universities, corporate offices, airports, and large scale events, we are pioneering sustainable reuse models to eliminate single-use packaging. We are 18 months into our journey and we have run 38 different projects and pilots across four countries. We have won numerous awards and have participated in four accelerator programs. We are actively scaling our pilots in San Francisco and Singapore currently and have ambitious expansion plans in the year ahead.  We are working with most of the largest brands in packaging to design and plan for a more sustainable future.",http://muuse.io
+Betterbin,"Betterbin is a social enterprise tech startup. Our mobile platform monetizes increased consumer recycling accuracy to benefit the financial viability of the material recovery industry. The Betterbin app incentivizes consumers to scan the UPC barcode of any product or text search for any brand-specific product or material to get instant, local how-to-recycle answers. More than just an app, Betterbin is building a one-of-a-kind data hub for online retailers that will provide the retailers with the data they need to tell consumers exactly how to properly dispose of purchased product packaging based on where the consumer lives. Betterbin's product and location-specific decontamination solution is the first of its kind in the U.S. to tackle the two biggest barriers to consumer recycling accuracy: (1) Acceptable recovered materials vary from one community to the next; and (2) Consumer goods packaging is increasingly complex.",https://about.betterbin.app
+ByFusion,"The plastic recycling industry is facing extreme challenges. Costs of operations are skyrocketing due to an increase of non recyclable plastic packing, high contamination rates and decrease of secondary markets for the non recyclables is forcing recycling center to landfill more plastic than ever which has devastating downstream impacts.",http://byfusion.com
+Litterati,"Litterati is an environmental intelligence company on a mission to eradicate litter. Used by schools, cities, and brands, the company's technology empowers people to clean the planet, while simultaneously building a Global Database of Litter. Litterati is backed by the National Science Foundation, in partnership with the United Nations, and was highlighted at TED.",http://litterati.org
+Kiverdi,"Kiverdi is fighting the climate crisis with technology that recycles carbon to address global issues like sustainable food production and the ocean’s plastic problem.
+
+Kiverdi’s NASA-inspired technologies convert carbon dioxide into people and planet-friendly nutrients and bio-based materials. The company’s patent-protected commercial solutions are being used by some of the leading manufacturers to power a new era of sustainable production — all while tackling some of our most pressing global challenges.
+
+The solutions include: 
+
+Reverse Plastics – solving the plastics crisis with a circular technology that transforms plastic into biodegradable materials 
+Revive Soil – increasing crop yield with organic nutrients that shift CO2 from the air to the soil
+CO2 Aquafeed – meeting the demand of feed with an alternative sustainable protein source
+Custom Cycle – reaching circular economy goals wit",http://kiverdi.com
+Arqlite SPC,"Arqlite has developed a new proprietary process that differs from traditional recycling systems as it is low cost and also capable of recycling all kind of plastics, even the ones that today are considered as non-recyclable and represent about 50% of the plastic waste stream. The output of the process is a light artificial gravel used at the construction industry, precast concrete companies and landscapers among others. Arqlite is greener, cheaper, 10 times better insulator and 3 times lighter, representing an Eco-friendly solution and a cost optimization.",https://www.arqlite.com
+CleanRobotics,"CleanRobotics has built an autonomous system, called TrashBot, that makes recycling affordable for businesses and profitable for recycling plants. Using robotics, computer vision, and artificial intelligence, we detect and separate landfill waste from recyclables and compost while gathering useful data for recyclers and replacing expensive commercial waste receptacles. 
+
+TrashBot replaces conventional waste receptacles (Trash, Compost, and Recycling Bins) with an affordable solution that instantly improves the quality and quantity of recyclable and compostable material while giving useful and actionable data to recyclers and facility managers. TrashBot's screen and analytics can be used to then provide location-specific information and education to employees and the public on how to improve their recycling habits. We also have an option where your corporation can leverage our platform to communicate sustainability messaging in high-traffic public places.",http://www.cleanrobotics.com
+"Obaggo Recycling, LLC","Post-consumer plastic bags and packaging film are one of the most difficult types of commodities to recycle, primarily due to the thin, flimsy form of the material. But bags are good stuff, you can recycle them into many different products. Unfortunately, bags are a contaminant at the Material Recovery Facilities that sort recyclables, and are banned from almost all curbside recycling programs. Millions of tons are landfilled each year. Obaggo solves this problem with a kitchen appliance that thermoforms your plastic bags into a “hockey puck”, that can be commingled in your curbside recycling bin. This hockey puck flows effortlessly through the recycling stream.
+
+Obaggo is the new shape of recycling.",http://www.obaggo.com
+Resynergi,"Resynergi focuses on the global problem of waste plastics.  We manufacture and service modular, thermal-conversion systems that utilize microwave energy and catalytic processing to quickly convert unrecycled waste plastic into usable fuels and other products that can be used for the repolymerization of plastics, with minimal greenhouse gas (GHG) emissions. The fuels we create from waste plastics are environmentally friendly, and are low carbon and ultra low sulfur. Our systems are all-electric powered, easy to deploy, scalable, and highly cost efficient.",http://resynergi.com
+AMP Robotics,"""AMP"" stands for Autonomous Manipulation and Perception. AMP Robotics has created a scalable robotic system that dramatically reduces the cost of recycling and enables “smart” recycling facilities. AMP's solution is a combination of state of the art computer vision and machine learning with robots that can identify and rapidly pick recyclable materials off a conveyor belt for market and recovery. Neuron Vision System learns and recognizes material in the dusty commingled conditions of recycling facilities, while Cortex Robotic Sorting moves material at tremendous picks per minute. AMP Cortex™ is a high-speed, intelligent robotics system designed to meet the demanding needs of today’s material recovery facilities and recycling operations.",http://www.amprobotics.com
+Continuus Materials,"Continuus Materials is focused on changing the paradigm of how we handle post-consumer waste and post-industrial waste. We see it as an abundant source of high quality raw material that can be upcycled into high demand, cost-competitive, superior performance products.
+
+EVERBOARD™ is a truly sustainable solution for the built environment because it is the first large-scale closed-loop construction material that will enable the development of regional circular material economies across the US (and the world). We are a closed-loop system that recovers difficult to recycle materials from waste streams, like consumer products packaging that is made from highly engineered materials have been previously sent to landfill. Our underlying magic is that instead of rejecting those materials as “not recyclable” we can harness the protective properties that have been engineered into those materials and upcycle them into the highest performing roofs and wall construction board on the market today",http://www.continuusmaterials.com
+Oceanworks®,"Oceanworks® is the global marketplace for recycled ocean plastic materials and products. Our sourcing platform provides a range of recycled ocean plastic resins, yarn, materials, and products from our global network of trusted suppliers.
+
+We work with a global network of collectors and processing suppliers from Central America to Alaska, Haiti to Southeast Asia, to deliver Members an efficient and flexible platform to source recycled ocean plastics. Our network of trusted suppliers offers a wide selection of materials at your fingertips. 
+
+Our trusted mark, Oceanworks® Guaranteed assures that the product meets marketplace standards for source authenticity, supply chain transparency, and social, environment, and legal compliance. Today's consumers demand to know the impact of their purchases, and our process gives customers that confidence for all products marked Oceanworks® Guaranteed.",http://oceanworks.co
+PicUP,"PicUP is an AI-based visualization, optimization and personalization platform for outbound calls. 
+
+We help Vodafone, Amex, Claro, UnipolSai and other tier-1 enterprises increase sales and improve customer experience over the phone channel.
+
+Our technology enables callers to add a personalized digital, visual layer to any outbound call, displaying a logo, a branded image, an animated GIf, and a personalized text. 
+Customers get beautiful,digital experience who helps them know who's calling them and why, providing transparency, security and control of their calls.
+
+Outbound calling campaigns with PicUP results in +66% answer rate, +43% sales conversion rate, and 92% customer satisfaction.
+
+We're already installed in 25M devices, currently partnering with 8 of the leading telecoms, to bring digital calls to dozens of millions of users worldwide, and change the way organizations sell and communicate with their customers.",http://picup.io
+Nect,"Nect offers cutting edge technology in remote identity verification and biometrics. 
+
+Nect's identity verification solution is fast and safe - offering a high level of assurance yet user-friendly experience. The in-house built technology complies with European and international laws (eIDAS). Nect ensures that customers are getting top-of-the-class solution for their users and gaining more customers and higher conversion rates than ever. Easy to integrate and easy to use Nect technology will allow you to reach people 24/7, anytime and anywhere. With verification done in under three minutes, the potential to expand your customer base is at your disposal while ensuring the latest compliance and regulatory standards. Furthermore, the wallet feature in the Nect app makes it easy to reuse the digital identity once it has been registered. In this way, users can identify themselves with their ID card, passport, driving licence or other documents within seconds.
+
+Nect is independent and can guarantee the highest level of data protection: The Technology is built inhouse and thus does not require to share data with third parties. The software is hosted on Nect owned hardware in three, redundant German datacenters, with zero downtime capabilities.",http://nect.com
+InvestSuite,"Investsuite offers cloud-native, modular InvestTech solutions to financial institutions of all types.  We combine deep quant expertise and banking & investment knowledge with beautiful, human-centric design.  As a B2B company, we ensure easy API connectivity & ensure implementation costs & time are minimal. 
+
+Our Robo Advisor enables financial institutions to offer personal financial advice to mass affluent customers and HNWI across stocks, ETFs, funds, and even crypto currencies, all wrapped in a human-centric design to give their customers the confidence to invest. Our proprietary Portfolio Optimizer can propose & manage hyperpersonalised portfolios using drawdown-based portfolio construction. 
+
+Our Self Investor is a self-directed investment platform designed with retail investors in mind, leveraging the knowledge and expertise of the team which previously built the #1 self-directed platform in the Benelux.
+
+Our StoryTeller is a world-first new way to tell the performance story of an investment portfolio as well as managed funds. It uses story telling techniques coupled with machine learning to automatically generate a personalized & engaging story based on narratives, pictures, news articles and even the ESG story of the portfolio.",http://investsuite.com
+Healthy Virtuoso,"Healthy Virtuoso has created a free mobile platform that incentivize and rewards people to live a healthier lifesytle through gamification. Today more than 70 corporates are using Healthy Virtuoso interantionally to launch corporate engagement & wellbeing data driven programs with incredible results both in terms of partecipation and wellbeing improvments.
+
+Corporate Customers
+- KPMG, American Express, MERK MSD, PRYSMIAN, Intesa Sanpaolo, Birra Peroni, Entain, Deloitte, Cassa Depositi & Prestiti, Whirlpool, Tesmec, Santander Bank, Societe Generele, BNP Paribas, Indivior, Zurich Italia, Orpea among others)
+
+Subscribed Users: 
++120.000
+
+Available countries
++113 (4 Languages)",http://healthyvirtuoso.com
+ExactData,"Global cybercrimes costs were estimated at $6T for 2021.  With $6B in written premiums last year, the insurance industry is either $T at risk or ignoring a potential $T insurance opportunity.  60% or data breaches occur through 3rd parties or through development and test environments.  The use of fully synthetic data eliminates these risks.  We generate fully synthetic high fidelity test data that is not derived from a confidential production data source and we are the best in the industry. Our platform scales to large sets of synthetic data, and we can meet the consistency and realism requirements that modern application performance testing demands. Our synthetic data helps our customers reduce their need for test engineering staff, drive greater levels of efficiency, reduce their time to market, and avoid malicious compromises during the software process.  We are a US-based, with six patents. For nearly two decades as a critical path technology component for some of the world's largest IT projects, we have been helping customers like the US IRS, US Census Bureau, UK INS, Oracle, IBM, US Department of Defense leverage synthetic test data to generate massive and complex data sets in a fraction of the time and expense of current technologies and manual methods.",http://exactdata.net
+DocMe®,"DocMe is an SDK technology that takes telemedicine beyond merely a video call and enables effective digital triage, delivers extensive efficiencies and health and insurance benefits, measuring vitals from a face video, acting as a screening technology for video visits.
+
+We believe, by the end of this decade, healthcare workflows will become mostly digitized, with wide swathes of personal data captured using computer vision, along with artificial intelligence, enabling personalized precision care through the analysis of that data. Much of the digitized data across healthcare will be visual - captured and analyzed by visual technologies. 
+
+Today, we present an AI-powered medical triage tool that uses optical sensors from existing ICT devices (smartphones and computers) to capture objective clinical data, which integrate into personalized care recommendations.
+
+- Currently, DocMe measures heart rate, respiratory rate, heart rate variability and blood pressure from a 30s face video.
+- We are developing a technology layer to expand our measurement parameters in the next twelve months.
+- Additionally, we are building different analytics layers to deliver more personalized and targeted actionable insights.
+
+We aim to become an industry leader in the next five years.",http://docme.ai
+Climatica,"Climatica is an European insurtech which uses machine learning models to build parametric insurance products. Our founding team comes from a highly selective background (hedge fund/BCG/insurance/pharma/unicorn fintech).
+
+We build parametric insurance products which protect against a number of scenarios related to weather. For example - heavy rainfall, low temperature or lack of sunlight. These solutions are meant for weather-sensitive operations, such as travel, renewable energy and agriculture. 
+
+Our products rely on novel methods of data analytics, rarely used in traditional insurance companies. We can cover areas of risk overlooked by other companies and can facilitate immediate payouts. We have already created the first product in Poland based on this technology in a partnership with a leading European insurer, and are working with 2 additional insurers on travel and renewable product roll outs.
+
+Climatica addresses the problem of the global increase in climate related economic loss (over 2x increase in the last 20 years), and the global protection gap in insuring against such events (i.e., income loss not covered by insurance), which reached close to $200B in 2020.",http://climatica.ai
+BirdsEyeView,"We are entering a new era, one that will be defined by climate change, and one that will be punctuated by an increasing frequency and severity of natural disasters. 
+Currently there is a major insurance gap, with $130bn of uninsured natural catastrophe losses every year. Traditional insurance is either unavailable or unsuitable and these events are becoming the new norm. 
+
+BirdsEyeView is a European Space Agency funded InsurTech that builds parametric insurance products for climate-change risks. BirdsEyeView is a digital-first Managing General Agent (MGA) that uses space-data to design innovative parametric solutions. 
+​At the heart of BirdsEyeView's offering is RAPTOR™, their proprietary algorithmic underwriting and quote and bind engine. 
+​
+BirdsEyeView works with brokers and agents. Using RAPTOR™, they can diversify their product offering and ensure that gaps in their client's exposures are covered. This is insurance for the climate change era.",http://birdseyeviewtechnologies.com
+BetterYou,"BetterYou helps people find more time in the day to do what matters to them. Through no manual entry, behavior design in the user interface, and personalized nudges, members benefit by being engaged and supported to set and pursue physical, mental and social wellness goals.
+Today the time we spend on our devices is optimized not for what we want, but for what we'll watch. BetterYou is creating a world where your time isn't controlled by app makers or advertisers, but you.
+We are currently leveraging a B2B2C model. Better You serves the higher education and commercially insured/ employer sponsored insurance market with other technology partnership opportunities in discussion. Higher education benefits from students using their time effectively because ineffective time utilization impacts retention of students. Improved employee health and wellness impacts health insurance premiums in addition to improved culture, productivity, recruitment and retention of talent.
+BetterYou has grown MRR Commitments in enterprise, higher education and  partnerships, tripling revenues in 2020 and growing them by 2.5x in 2021. Today our  monthly recurring revenues are on pace to end the year at $200,000 and see that  number double again in 2023.",http://betteryou.ai
+Anagog,"Anagog is the world’s first On-phone Customer Engagement & Enrichment Platform. 
+
+Being the first marketing platform that's powered by Edge-AI, working from within the phone without dependency on cloud processing, Anagog helps mobile app owners truly meet and exceed their customers’ expectations for relevant personalized experiences in real-time, while (finally) meeting the demand for privacy.
+
+Anagog enables marketers to offer a differentiated, multi-channel personalized engagement, in real-time, including Push Notifications, In-App Messages, App Inbox and more, and to better learn their audience via powerful anonymized audience analytics and actionable insights.
+
+Key benefits:
+
+•	KNOW your users not only online, but beyond it, understanding the user on the phone and in the real-world
+•	ENGAGE users with greater relevance - in context, real-time and with true agility  
+•	TRUE PRIVACY to your users  
+•	EXPAND and engage more users  
+•	Easy and simple integration with no hidden costs",http://anagog.com
+Allthings,"Allthings delivers all things for a better life in buildings. Strongly focused on creating a great tenant experience, Allthings offers one single platform that connects tenants, property owners and service providers. Tenants use the app for direct communication and to access a variety of digital services that simplify everyday life. Property owners add a new service layer to their buildings and benefit from data-driven insights. Service providers like property managers, local commerce or concierge companies offer their services digitally to the tenants. Beyond that, third-party solution providers can be flexibly integrated into the modular and open Allthings platform, much like an app store for buildings.",http://allthings.me
+Aktivolabs Pte. Ltd,"Aktivolabs is a digital health insurtech startup that helps life and health insurers to engage and acquire high value customers, price and manage risk at scale, and provide a deeply valued service for meaningful interaction with customers.
+
+Financial institutions, life and health insurers in multiple markets have engaged Aktivolabs to use the digital Aktivo digital health platform to drive innovation for customer acquisition, retention and product design.
+
+The Aktivo Score® is a digital biomarker that predicts health and longevity. Aktivolabs has built a proprietary risk analytics engine around the Aktivo Score® that enables banks, life and health insurers and reinsurers to design innovative insurance and financial products.
+
+Aktivo solves the last mile problem for insurers by using real-time health and physiological data for focused upsell and cross-sell strategies. The Aktivo platform is also utilised by Corporations to engage and build a more productive and healthier workforce.",http://aktivolabs.com
+Plutoview,"Plutoview allows you to use your favorite apps and tools with anyone in the Metaverse. Our mission is to create a world where everyone has equal access to the tools that help them become successful in work and in life.  Work together again with all the tools and applications necessary to achieve our goals.  Shop together again at any and all of your favorite online retail locations and shop for and create NFTs, mirroring the functionalities of an in-person retail space.  Book trips together, completely virtually, with your significant other, classmates and coworkers.  Relax and watch movies and TV shows, with the highest quality audio and video, in a virtual theater with all of your friends.",https://www.plutoview.com/
+Hargol FoodTech,"Hargol FoodTech uses unique technologies to grow and harvest large quantities of grasshoppers in captivity quickly, efficiently, and under sanitary conditions. The result is a reliable, sustainable, and high-quality protein source.",https://www.hargol.com/
+Yoran Imaging,"Yoran Imaging was established to provide effective sealed product inspection that perfects the quality assurance process of manufacturing facilities. Our Package Analytical Monitoring (PAM) solution combines thermal imaging technology with advanced real-time algorithms to provide 100% in-line monitoring of product sealing process. This solution integrates seamlessly with manufacturing facilities without disrupting or slowing down the production sequence.
+This solution is critical in today’s manufacturing process that neglects the inspection of final products.  We help our clients detect defect in products before they slither into the market. Our customers can now avoid expensive recall of defective product batches and the negative publicity that comes with it. 
+Our system is backed by about two decades of technical expertise. We have perfected the thermal imaging technology for ensuring 100% heat sealing integrity and process control. This breakthrough makes Yoran Imaging PAM-2 systems",http://yoran-imaging.com
+W-Cycle,"Plastic is one of the 21st century’s most widely used materials. However, our inability to treat it properly once we are done with it,is causing a global environmental disaster.
+
+W-Cycle develops and sells compostable packaging solutions for the food industry. Targeting the $2BN rigid packaging market for the ready meals industry, W-Cycle is focused on packaging solutions for retail, in-flight catering & institutional verticals. To date, this industry uses a special plastic (CPET) that can handle cooked food at both low and high temperatures. 
+
+The Ultimate Plastic Replacement
+Developed by W-Cycle, Suprapulp is a patented, field-tested, liquid-proof replacement for plastic (CPET) that is made from 100% natural materials. Unlike other solutions, Suprapulp is the first-ever commercially competitive, non-coated, cellulose-based packaging solution. SupraPulp can handle food at temperatures varying from -40⁰c to 270⁰c.",http://w-cycle.com
+PupPod,PupPod is an interactive puzzle toy for dogs that makes your dog smarter.,http://puppod.com
+TeleTails,"TeleTails is a veterinary telehealth platform that provides live video, messaging, and payment capabilities for pet owners with their veterinarians digitally. Its telemedicine platform integrates into workflows, giving teams a solution to extend relationships and improve care outcomes. It is also vet-friendly, flexible, and secure.
+
+It was founded in 2018 and is headquartered in Washington, District of Columbia.",http://teletails.com
+NovoNutrients,"Our technology makes ingredients for purchase by manufacturers of food and feed. By upcycling industrial waste gases, notably carbon dioxide (CO2), this bioprocessing utilization of carbon capture forms the core of our platform. Our licensees build plants to make bulk proteins and/or additives.
+
+Our primary product is a proprietary bioprocessing platform that transmutes industrial carbon dioxide emission waste gas into food and feed materials. Gas streams are dissolved into an aqueous solution, inside our patent-pending bioreactor. That grows up a designed community of microorganisms, which are harvested, sterilized, and dried. The results can be either a single-cell microbial protein flour or one of a number of food and feed additives. Among what sets us apart from our most direct competitors, is the efficacious microbial consortia approach. That allows the platform to achieve a high degree of efficiency, as well as variety, in producing bulk and niche products for food and agriculture.",http://www.novonutrients.com
+Natural Machines,"Treat your customers as individuals - provide personalized products. Our innovative 3D printing solutions are focused on products you eat, ingest, or put on your skin.
+
+Our B2B2C solutions make products at the point of consumption, personalized for each individual. Industries: food, personal care, pharmaceutical.
+
+We want to inspire individuals to lead more sustainable lifestyles and contribute to a healthier, more sustainable planet... both for the inhabitants and the environment. Our goal is to produce a range of innovative solutions that enable our customers to provide personalized products, and have a positive environmental impact by lessening loss/waste. We further the advancement of UN Sustainable Development Goals, Goal 12: responsible consumption and production.
+
+Our first released product is Foodini: a 3D food printing kitchen appliance, using REAL food to print. In 2021 we expanded into the personal care industry: BASF and Natural Machines partner to deliver solutions for customized personal care face masks. And in 2022 we expanded into the pharmaceutical field: CurifyLabs and Natural Machines partner to deliver a platform for producing personalized drug treatments.",http://naturalmachines.com
+Moolec Science,"Moolec Science is an Ag-Foodtech company consolidating a unique pipeline of projects and capabilities in the Molecular Farming space, with more than one decade under development. 
+
+Its mission is to improve the affordability of animal-free solutions in favour of true sustainability. The company’s technological approach will have the cost structure of plant-based solutions with the organoleptic properties and functionality of cell-based platforms, an approach at least 10x more cost effective than leading alternatives. 
+
+With a proof of concept for the cheese market, the team is known for being the first to produce bovine chymosin in safflower, a functional protein commercialized under the SPC® brand. A family of international patents currently covers this platform, with SPC® events fully de-regulated for cost-effective large-scale production.  
+
+Currently, the company is consolidating different research lines to produce unique blends of highly functional proteins from bovine and porcine origins in protein-rich crops such as soybean and peas, creating a new generation of meat analogues. 
+
+Moolec is run by a diverse team with operations in the United States, Europe, and South America.",https://www.moolecscience.com
+Kauel Technologies,"Kauel is a company with more than fourteen years of experience based in the United States. They strive to make industries smarter, leading with innovation and high-impact technology developments for their transformation to an Industry 4.0. (Kauel effectively uses analysis, artificial intelligence (AI), artificial vision, photometry, virtual reality, augmented reality, IoT, Big Data, and other technology types).
+
+Being experts in asset and productivity monitoring with artificial vision and data processing using artificial intelligence, KAUEL applies its technology in industries such as oil and gas, energy, mining, and manufacturing. This allows them, among other things, to inspect power lines, large pipelines, gas pipelines, oil pipelines, miner pipelines or water mains, production lines, infrastructure, and fleets. Their AI is used to monitor and/or inspect industrial assets and improves the safety for workers and facilities, detects fires, makes inventories (p.e. tree-mass density), and measures volume of materials in mining or construction truck loads. With IoT they are monitoring industrial processes by measuring temperatures, PH, among others factors, and optimizing truck routes.",http://www.kauel.com
+Helpet,"An application designed to manage better the needs of your four-legged friend. Many useful services always at hand.
+Helpet was created to help pet owners take care of their friends in a simple, efficient and organized way.
+The owner will be able to record the information in the health card in electronic format and keep at hand the documentation of the pet (identity card and passport).
+With the Helpet app, the owner will be able to identify the best pet unit on the map and based on their location, such as vets, pet taxis, pet stores, beaches, parks, hospitals, ambulances and so on other pet owners, report the loss of your pet and / or post a simple event on the map.
+It will be possible to contract and sign an insurance policy, choosing from the different types of coverage adapted to each need of the Pet owner, directly from his smartphone, tablet and PC, with the possibility to make both payment of coverage and management of any claims using the Otp electronics signature.",http://helpetapp.com
+Full Cycle Bioplastics,"Full Cycle Bioplastics is leading the global transition to bio-based and compostable materials. Our proprietary technology converts mixed organic wastes, such as inedible food waste, agricultural by-products and dirty paper/cardboard, into a compostable, biodegradable material called polyhydroxyalkanoate (PHA).
+
+Full Cycle PHA can be certified as food contact safe, is tailorable to match existing fossil fuel-based plastic products’ technical specs, and is tunable to end-of-life target. Our PHA is the lowest cost and lowest carbon alternative to fossil fuel-based plastic. 
+
+With every 100 tons of organic waste Full Cycle diverts from landfill, we prevent 51.7 metric tons of CO2e from being emitted (per the EPA's 2020 WARM calculator). Our technology captures carbon from organic waste at every stage in the process, mitigating greenhouse gas emissions and repurposing waste into a high-value material product. At end of life, Full Cycle PHA products can degrade harmlessly into the ecosystem, or ideally, be upcycled once more into virgin PHA resin.",http://fullcyclebioplastics.com
+Adrich,"What if your product could communicate its usage patterns and tell you when it’s time to re-order? With Adrich, brands can readily convert any consumable products or packaging into connected products with its peel-and-stick smart sensing labels that autonomously capture real-time usage data. Brands and retailers can leverage the insights on how their consumers use their product to increase loyalty and LTV. With behavior data such as when consumers are running out of product and ability to engage in a 2-way communication with consumers, brands can offer personalized experience at scale. Adrich’s solution is used in a variety of use cases such as consumer insights, smart packaging, media effectiveness monitoring, regimen building, smart replenishment, and automated refill for sustainability and connected ecommerce.
+
+The female-founded and led company is headquartered in Pittsburgh and counts some of the leading consumer brands and retailers as customers, including Clorox, Colgate, and Tyson.",http://adrich.io
+xyzt.ai,"xyzt.ai is a visual analytics platform that helps you see and understand your location data. Extract the insights from your big location data using dedicated location analytics pages. This includes trend analytics, time-of-day/hour-of-day, segmentation, and origin-destination analytics.
+
+1) Connect your data and focus on extracting your insights. xyzt.ai takes care of all: from storing, to analyzing, to visualizing.
+2) Improve your efficiency through AI-driven automated workflows. Detect anomalies, find similarities, and anticipate future events.
+3) Handle all your location data in a highly interactive web platform with instant updates even for billions of records.",http://xyzt.ai
+Zetako,"Global data will grow by 50X in the next decade and current infrastructure cannot keep up with the increasing demand for both Bandwidth & Storage. Current Lossless Compression technologies are all based on a 40+ year old algorithm (LZW).
+
+By developing a new math theory based on Statistical Predictive modelling, we are able to apply compression on any datasets with better compression ratio, better speed and with use of less (70%) recourses and energy. Our technology is unique in its ability to do bit-by-bit compression, needing no prior information of data leading to zero latency.",https://zetako.ai/
+Notilo Plus,"Notilo Plus is an an underwater solutions specialist with autonomous and intelligent products. More than underwater drones, we offer complete solution for simple data collection and exploitation in underwater environments, powered by artificial intelligence.
+Our mission: knowing and protecting the underwater world.
+Our values: offering a human and societal commitment to the scientific, industrial and recreational exploration of the seabed, while taking into account our impact on the underwater ecosystem.",https://www.notiloplus.com
+FUELSAVE,"FUELSAVE GmbH is an awarded energy efficiency and cleantech company from Germany that focuses on providing innovations in energy efficiency enhancements and emissions reduction in various segments, with a patent portfolio in 11 fields and patent families around it.  FUELSAVE GmbH has been funded by the EU as TOP SME in Europe, first german company to ever achieve that. FS MARINE+ is the first solution being commercialized, patented, field and lab proven as cost savings & emission reduction for combustion engines with current & future cleanfuels through dynamic injections of hydrogen, oxygen, water & methanol applicable for combustion engines (not limited to maritime). 
+
+FS H2GEN+ for efficient hydrogen production with alkaline and PEM stacks , FS ENGINE+ the worlds most efficient pneumatic engine as turbine replacement for various applications including energy recuperation from gas networks and gas transmissions, as well as turbine replacements with an isochor efficiency validated with TÜV of over 95%, outperforming any other engine in this field by 60-140% which can also be used for long term energy storage with AA-CAES at lower CAPEX and lower TCO. FS Heat2Power+ is transforming efficiently waste heat into usable electricity to reduce OPEX and emissions.",http://fuelsave.de
+CyberOwl,"CyberOwl helps asset operators in the maritime and critical national infrastructure sectors gain visibility, cyber security, and cyber compliance of systems on their distributed, remote assets. Cyberowl provides technologies, a managed service, and specific cyber security advisory services to support asset operators.
+
+CyberOwl's technology provides near-real-time visibility of the behaviors of assets and their communication patterns. They are deployed to identify and inventory assets on the IT and OT networks of these operational platforms. They detect and raise early warning of cyber attack tactics, techniques and procedures; identify anomalous and suspicious activity; and monitor for non-compliance with cyber security policies. These are delivered through a modular, distributed architecture that is optimised for environments facing the challenges of intermittent connectivity, bandwidth constraints and the need for remote management. 
+
+Their managed service provides assurance and support to asset operators with any level of cyber expertise. CyberOwl supports security operations through alert verification, triaging and providing guidance on appropriate cyber incident response actions.",http://cyberowl.io
+Closelink,"Shipping companies lack automated processes and the benefit arising from digital data analysis. Our value proposition: Cost transparency, process automation, emergency support.
+Our mission is to enable smart procurement in the shipping industry, our vision however goes beyond lubricants. In the years to come, Closelink will become a synonym to the entire global shipping industry as the leading source for major ship supplies. Closelink will facilitate communication between different partners across the globe by integrating with buyers' and sellers' software. Closelink will initiate standards to allow digital sourcing and trading of leading ship supplies in a secure, reliable environment. Industry stakeholders will rely on Closelink not only for transactions but also for information. Information on digital procurement in general, the use of multichannel sales or the possibilities of automation and machine learning.",https://www.closelink.net
+Bleenco,"Our industry approved platform Bleenco Go is designed to meet the needs of everyone across the value chain: On one hand, it offers ready-made solutions for operations, and on the other hand, it offers the tools needed for our clients to build their own digital solutions. Our proprietary AI platform combines the world's AI knowledge in one place, and uses it to address the most pressing industrial challenges.
+
+Typically we identify manual processes and automate them to ensure the safety of employees and maximum workspace efficiency, by connecting sensors (to detect inefficiencies) and interactive devices (to react to these inefficiencies). Additionally Bleenco Go offers strategy and R&D departments the tools and gateways to the novel AI needed to easily create new solutions.
+
+As a result, our clients can choose amongst proprietary and easily customizable solutions or can decide to build entirely new solutions with our pool of AI components. Some of our most used solutions help companies to monitor safety compliance and accelerate industrial automation with applications such as detecting personal protective equipment, counting and localizing people in the building, estimating industrial ergonomics, detecting liquid or gas leakages or tallying cargo amongst many others.",http://bleenco.com
+Awake.AI,"Awake.AI is a software platform company building an ecosystem for smart ports and shipping. Awake.AI’s mission is to lead the transition to sustainable and intelligent maritime logistics and reduce global shipping emissions with their ecosystem partners. The platform is the first of its kind, built from the ground up to accommodate seamless collaboration within the entire maritime logistics chain by sharing situational awareness and providing AI-supported predictions for future planning. The API’s and applications built on top of the Awake platform are available for customers and third parties using the subscription business model.
+
+For terminal operators they optimise port calls with AI insights, for port authorities they maximise the use of their existing port capacity, for ship operators we enable just in in time arrival and faster turnaround times, for cargo owners they bring full transparency to cargo flow in sea-port-land.",http://awake.ai
+Autonomous Knight,"Autonomous Knight enables the autonomous mobility economies of tomorrow.
+
+Our patented technologies deliver leading situational awareness for any industry transporting things or people, in all weather conditions, day & night, 24/7/365.
+
+After a technology validation by an international expert jury Autonomous Knight has been awarded a sizable grant from the Belgian agency for innovation and development.
+
+The company has designed a multi-spectral sensor system that can accurately and reliably identify the smallest mission critical objects at safe distances in real time to classify objects easily and execute the autonomous control strategy fast and safe enabling level 5 autonomy.
+
+Autonomous Knight provides SUPERHUMAN vision sensing abilities to vehicles, vessels, UAV's in any and every scenario.
+
+Why SUPERHUMAN vision? Because autonomous control requires safety, reliability and accuracy better than humans could do.
+
+Why automate else? Any autonomous operation is only as good as it can perceive its surroundings, near AND far, through rain, snow, fog, hail, dust etc. The better you ""SEE"" (farther, faster and more detailed) the more time the system has to make accurate, safe and reliable decisions.
+
+Autonomous Knight's image based sensor system fasttracks level 5 of autonomy.",http://autonomousknight.com
+Wareclouds,"Wareclouds puts brands products in their customers hands in a fast and cheap way, by using people idle space and time. This people store products and pick and pack orders in their house, which are then delivered by people in their car.
+
+We use a sharing economy model, where people in their homes take care of the fulfillment, and independent riders of the last mile.",http://wareclouds.com
+Vendorflow,"Recent investment in the trucking space has created dozens of TMS, marketplace, loadboard, and visibility apps that truck drivers are expected to use to service truckloads. The purpose of these apps is for truck drivers to automatically submit structured data back to core systems (load booking, GPS, documents, etc.). However, the fragmented environment leads truck drivers to use these apps only ~25% of the time, meaning 75% of critical truckload data is manually communicated back to operations teams over email, call, SMS, or social messaging apps.
+
+Vendorflow enables logistics service providers to capture the structured logistics data they need in a way that drivers will comply with, by reaching truck drivers ""where they are"" via popular channels like WhatsApp, SMS, Telegram, and more. The result is increased driver compliance, driver satisfaction, and structured data capture.",http://vendorflow.co
+Syncware,"SYNCWARE provides software to connect robots, barcode scanners, label applicators, with warehouse management systems in hours instead of months. SYNCWARE translates all robot languages to one common standard. We build on top of state of the art open source interoperability framework, making robotic connectivity possible.",http://syncware.ai
+Stoke Systems,"Stoke helps improve uptime, reduce maintenance costs and maximize productivity for remote industrial assets by making it easy to monitor them, regardless of where they are located. Their solution, SmartEdge, combines smart sensors, edge AI and ubiquitous connectivity into a plug-and-play system that provides customers actionable insights to prevent asset downtime and failures before they can impact productivity.",http://stoke.global
+Solo AVT,"Solo Advanced Vehicle Technologies – a VC-backed start-up – is revolutionizing the freight transportation industry by building the world’s very first purpose built heavy truck platform for autonomous driving. Engineered from the ground-up, it will be the safest, greenest, and most efficient heavy truck ever.",http://soloavt.com
+REPOWR,"Founded in September 2020, REPOWR is refining the way transportation companies utilize over-the-road equipment (trucks, trailers, chassis, shipping containers, etc.) To do so, REPOWR is pioneering the world's first connected, collaborative asset-sharing platform and equipping logistics companies with the tools necessary to share and manage assets across locations, teams, and networks, efficiently and sustainably.
+
+REPOWR’s open marketplace and community of private networks allows companies to lease and share assets in a single, integrated platform. Our platform meets our customers right where they need it, including plugging directly into their existing operating systems, via our open APIs.",http://repowr.com
+real items,"Real Items provides Traceability as a Platform for end-to-end digitization of the product life-cycle using digital twins on blockchain.    
+Real Items cloud platform enables enterprises to embed content into physical products and produce blockchain smart labels to any documentation.
+
+Our services protect against fraud in international transportation and cross-border commerce.   
+
+Real Items provides a board application suite for enterprise managed services include blockchain traceability as a service API.  
+
+Generate QR codes to blockchain smart labels to protect supply-chains & consumers.",http://realitems.org
+Peer Robotics,"Industries are going through a fundamental shift from predictable to dynamic operations. And these dynamic operations require automation that can adapt as fast as humans can. Existing automation solutions are not flexible enough to adapt as per these changing requirments. Leading to enourmous upfront costs on integration and deployement (almost 70% of the total cost automation cost) and additonal costs or downtime for any change in the solution.
+
+At Peer Robotics we develop colaborative mobile robots, that can learn from humans in real-time. Making them extremely simple to deploy or reprogram in the existing infrastructure without any skilled manpower within hours.",http://peerrobotics.in
+Osaro,"Osaro creates machine intelligence software that combines state-of-the-art perception with powerful adaptive decision-making abilities to help computer and robotic systems act efficiently and intelligently.
+
+Like many advanced machine learning technologies, Osaro's software automatically extracts information from high-dimensional, time-varying data. Osaro goes beyond merely classifying data. The technology interacts with the environment to learn, discover, and achieve a specific goal.
+
+By making machines more adaptive, intelligent, and efficient, Osaro frees up humans to focus time, energy, and capital on higher level tasks.",http://osaro.com
+Navflex,"Navflex is automating loading and unloading operations in a simple, quick and affordable manner through transforming material handling equipment into Intelligent Mobile Robots optimized for handling challenges of the loading ramp. Fusing information from array of sensors, we are capable of performing precise (un)loading  operations without any need for physical infrastructure changes, dynamically adapting to different types of transport, pallets, loads, locations, or loading patterns.",http://navflex.tech
+Loko AI,"Loko AI is pioneering Autonomous Systems, Synthetic Data and Machine Learning at scale to solve the hardest security, surveillance, public safety, loss prevention and retail problems facing the world. We’re on a mission to build technology that benefits society and we are dedicated to building an awesome, diverse company culture at the forefront of Artificial Intelligence.",http://loko.ai
+Ledgerset,"Ledgerset is a collaboration platform that helps retailers and suppliers discover new trading partners, create trusted trading relationships, and do business at scale.",http://ledgerset.com
+Dash Systems,"DASH Systems builds precision aerial delivery systems that allow any aircraft to land cargo without the need for runways or landings. This allows the world’s fastest shipping medium, air cargo, to deliver anywhere in the world an airplane can fly over. Cargo planes can deliver up to 5x faster and 2x cheaper than commercial courier companies by not relying on slow ground vehicles or the need for expensive infrastructure and distribution hubs.  Currently DASH Systems is focused on replacing helicopters for emergency and remote logistics including deployments in Hurricane Maria, Florence, and Michael.",http://www.dashshipping.com
+Curbhub,"Curbhub is a delivery service and SaaS solution provider that enables retailers to extend their same-day delivery radius by over 5x upto 100 miles, cut last mile delivery costs by over 20%, and shave over 40% of their last mile transportation emissions. Curbhub’s collaborative transportation technology leverages integrations with local delivery service providers, crowdsourced delivery platforms, and autonomous delivery fleets to dispatch the right courier for each segment of the delivery route to get to a level of transportation efficiency not achievable with the existing last mile delivery alternatives. Curbhub also offers reverse logistics solutions to enable retailers to implement cost-efficient reusable packaging programs.",http://curbhub.io
+Contactile,"Contactile is a Sydney-based start-up company established in early 2019. Contactile is an innovator in tactile sensors for robots and is enabling intelligent dexterous robotic gripping. The contactile tactile sensor provides robotic gripping systems with the sensory advantages of the human hand without the physical limitations related to size, strength, environment, and fatigue. contractile sensing technology was invented at UNSW Sydney by the founders with funding support from the Australian Research Council and the US Office of Naval Research Global.",http://contactile.com
+Ambi Robotics,"Ambi Robotics offers advanced AI-powered robotic systems designed to scale with your operations.
+Our hardware-software codesign opens up new possibilities in robotic dexterity to handle increasing demand in the supply chain.",http://ambirobotics.com
+Aklimate,"A growing number of global corporates have ambitious net zero targets that will be impossible to obtain without engaging their suppliers at scale. Their supply chain typically represents 80% of their overall emissions, and they are only engaging ~2% of them at present, despite having short term (2025 or earlier) targets of +50% of suppliers reporting on their emissions.
+
+They license their platform to corporates to engage their suppliers at scale. They guide these suppliers through measuring a Scopes 1-3 carbon footprint, empowering them to reduce this over time, and automating the process of reporting these emissions to third parties like the Carbon Disclosure Project (CDP).",http://aklimate.co.uk
+Above Robotics,"With Above, autonomy looks like teamwork: As more autonomous systems become available, businesses are stuck when integrating them into operations. While automating a single task may seem like a great solution, it can easily become a very segmented process, sacrificing the desired efficiency. 
+
+Above Robotics is a platform for coordinating various autonomous systems like trucks, drones, shuttles, and robots. The cloud connected platform allows businesses to easily adopt autonomous solutions. Above seamlessly integrates autonomy to keep operations moving forward without interruption. Above delivers an end-to-end solution as an orchestration layer that unites autonomous tasks with business processes such as requesting, routing or scheduling. With Above, disparate autonomous, manned and automated systems work cohesively to increase efficiency and overall cost effectiveness for industries with complex workflows including ports, airports, agriculture, security and utilities.",http://aboverobotics.com
+Earthly,"Earthly's platform helps businesses find and invest in the most effective Nature-based Solutions (NbS) that remove carbon, protect and regenerate nature & support the wellbeing and livelihoods of local communities. We help businesses go above and beyond Net Zero to become climate and nature positive.
+ 
+We are a team of entrepreneurs, engineers & scientists, brought together with a shared passion to avoid climate breakdown and reverse biodiversity loss whilst supporting sustainable development. We are proud to be within the top 5% of the UK's highest-scoring B Corps and to have the support of the Google + United Nations SDG pilot. 
+ 
+Our mission is to be the leading global marketplace for nature-based solutions and help businesses remove at least 1 Gigatonne of carbon (1 billion tonnes) by 2030, while supporting biodiversity and people. To achieve this, we only work with projects that meet a minimum threshold for positive carbon, biodiversity & social impacts. 
+ 
+Our clients include Spain's leading bank CaixaBank, Envision Virgin Racing many other businesses looking to lead the fight against climate change. To build awareness of NbS co-benefits and create longer-lasting relationships between projects and investors, we use interactive data visualisation that brings",http://earthly.org
+Swayed,"Swayed learns from a hotel's existing data set to create a holistic view of its guests and property. Swayed acts on these insights to personalize guest journeys with real-time messages and experiences. 
+
+Engage with different types of guests differently by leveraging profile data and guest preferences to inform how your guest wants to interact with your property. Add context to how you communicate with guests from location data, dwell time, traffic patterns, weather and more. Leverage all historical purchase data across systems to help inform future purchase decisions and what messages guests are most likely to be interested in.
+
+
+
+Swayed was founded in 2018 and is based in Los Angeles, California.",http://swayed.ai
+Plan 3,"Plan3's unique 'issues dashboard' watches the disruption status of passengers at an individual level, flagging any passengers that have issues due to disruption, no matter how minor.
+
+Create 'option packages' that address every need your customer has, or is about to have - think new flight, hotel, meal vouchers, ground transportation - all customised by your team, and configurable to different passenger groups, even crew!
+
+When a disruption occurs, Plan3 looks ahead at each step the passenger will face in order to get back on track. Powerful automation then sources and delivers all re-booking content and customer care items, from one single screen.
+
+Built-in communications enables customer care teams to utilise template-based messaging to accompany the options you have just created. Passengers receive a link to their options via SMS and email.
+
+We run a pay-as-you-use model with our partners based on every time a disruption is solved for a passenger. We do not charge a flat monthly fee.",http://plan3.aero
+Traveknowledgy,"We are a travel technology company, focusing on automation of post-booking processes within a travel agency and improvement of their bottom line.
+
+We provide travel companies with a GDS-agnostic process automation solution, enabling them to seamlessly create and manage sophisticated workflows related to post-booking processes in GDS and mid-office systems. Thanks to the intuitive and extremely versatile web interface, requiring minimal technical background, you can leave technology to us and concentrate on what you do best; automating your daily manual processes, where only your creativity sets the limit on what you can achieve.",http://traveknowledgy.com
+SINAI Technologies,"SINAI Technologies is the world's first and leading Decarbonization-as-a-Service solution, enabling global organizations to simplify and solve complex carbon reduction strategies. SINAI automates the way companies measure, monitor, forecast, price, analyze risk  and reduce carbon emissions around the world, from their own operations and throughout entire value chains.
+
+SINAI's platform helps companies build inventories in a way that supports future decarbonization efforts, set realistic carbon reduction targets, and develop a data- and financial-driven, actionable roadmap on how to achieve those targets. SINAI offers solutions that enable companies to engage their entire supply chain to work towards a common goal of effective emissions measurement and ultimate reduction. 
+
+Their cloud-based platform is configured to match the unique business structures of each customer, and is available at the users' fingertips for on-demand analysis at any required time interval. SINAI's solution can be used to support disclosure prepared in accordance with a variety of international protocols and frameworks.",http://sinaitechnologies.com
+reTravel.io,"reTravel provides a retention marketing solution for travel companies, that allows them to maximize the value of their travelers by analyzing and processing booking information and intelligently communicating with the travelers across the customer journey.
+
+The platform links to existing API sources, such as mid-office or back-office systems, to pull existing booking data. reTravel can also connect the GDS systems directly if required.
+The booking data is clustered and predictive models are applied to gain crucial insights and calculate purchase probabilities.
+
+reTravel generates automated cross-channel campaigns to engage the traveler with the highest purchase probability offer. 
+The set-up process is frictionless and does not require any implementation from our customers' side. Once the setup is complete, the system runs fully automated.
+
+reTravel also links directly to an existing supplier network. This enables reTravel to pull real-time availabilities and pricing – essential to tailor-make the offers for your travelers.
+
+Available offers can either be accessed via deep links in a booking engine or link to external suppliers with the affiliate associated with the booking.",http://retravel.io
+Travala,"On the surface, Travala.com is an easy-to-use online travel agency (OTA). Under the hood, our proprietary infrastructure allows us to offer unique value add to both travellers and travel suppliers. Firstly, our users can pay for bookings using any of the 30 most popular cryptocurrencies in addition to traditional payment options. Beyond that, our native cryptocurrency provides users with enhanced discounts, rewards, and - importantly - a stake in the success of Travala.com. 
+
+Our structure not only builds loyalty, it turns Travala.com users into promoters. By doing so, it sets up Travala.com for supercharged growth in the fast growing OTA sector, which is expected to exceed 10% CAGR to generate revenue in excess of $1 trillion by 2023. Since starting in 2017, we’ve established key partnerships (Booking.com, Agoda, Expedia, and more) and built out the platform to offer a world-class booking experience by any standard.",http://travala.com
+CellPoint Digital,"CellPointDigital is an omnichannel digital platform & payment solution for the travel industry. It provides promotion, commerce, payment & self-service using data-driven optimization to boost conversion rates. It provides processing & monitoring of multiple transactions (cards, alternative forms of payment & loyalty), and optimizing every transaction with intelligent routing. Clients include Southwest, Philippine Airlines, Emirates, Viva Air & more.",http://cellpointdigital.com
+Goodwings,"We combine a love for travel with a passion for creating a more sustainable future. Together we can turn the travel industry into a driving force for positive change and prove that a balance of purpose and profit is both sustainable, and cost-effective Every time you make a booking on Goodwings, you’re directly contributing towards creating a more sustainable future. This is because we remove all the carbon emissions from your trip - for free. It’s easy, efficient and ethical. Why book anywhere else?
+
+You can learn more about Goodwings at https://www.goodwings.com",http://goodwings.com
+Ramp,"Ramp is a technology company that develops corporate cards designed to save businesses money. The company is redesigning how corporate spending should be managed from the ground up to save time, money, and ensure control. It provides companies higher card limits, insightful saving opportunities, automated expense management, lightning-fast receipt matching, seamless accounting integration, and more.
+
+Get 5-in-1 software that combines cards, expenses, bill payments, accounting, and reporting into one platform. Control spend at scale with robust controls, limits, and automation designed to save you time and money. Automate repetitive tasks for greater team efficiency and get strategic insights into where you can cut costs.
+
+The company was founded by the same team that built, scaled, and sold Paribus to Capital One, spearheading Capital One’s push into saving technologies. Their group at Capital One enabled automated savings on online purchases, and put over $100 million back in consumers' pockets. Ramp is committed to providing that same value and savings to businesses.",http://ramp.com
